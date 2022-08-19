@@ -79,11 +79,11 @@ ___
 
 | Merits                                    | Flaws                           |
 | ----------------------------------------- | ------------------------------- |
-| [[Early Riser\|Early Riser]] (1pt. Merit)              | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)      |
-| [[Light Sleeper\|Light Sleeper]] (2pt. Merit)            | [[Prey Exclusion\|Prey Exclusion - No bums]] (1pt. Flaw)  |
-| [[Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)           | [[Touch of Frost\|Touch of Frost]] (1pt. Flaw)  |
-| [[Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Lunacy\|Lunacy]] (2pt. Flaw)          |
-| [[Unbondable\|Unbondable]] (5pt. Merit)               | [[Kiss of Death\|Kiss of Death]]   (2pt. Flaw) |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)              | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)      |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Light Sleeper#Light Sleeper\|Light Sleeper]] (2pt. Merit)            | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Prey Exclusion#Prey Exclusion\|Prey Exclusion - No bums]] (1pt. Flaw)  |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eyes of Shadow#Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)           | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Touch of Frost#Touch of Frost\|Touch of Frost]] (1pt. Flaw)  |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Lunacy#Lunacy\|Lunacy]] (2pt. Flaw)          |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)               | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw) |
 
 
 ---
