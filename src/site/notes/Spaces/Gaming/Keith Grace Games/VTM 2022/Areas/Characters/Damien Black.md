@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/keith-grace-games/vtm-2022/areas/characters/damien-black/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: [[Spaces/Gaming/Keith Grace Games/z - Retired Games/Las Vegas Mixed cWoD 2022/• MOCs/LV Character List - MOC|Character List]]
+up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
 tags:: #Keith/KVTM2022/Character/PC #mine 
 dates:: 2022-08-09
 
