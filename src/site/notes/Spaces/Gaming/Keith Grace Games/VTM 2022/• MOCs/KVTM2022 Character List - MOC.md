@@ -7,6 +7,6 @@ dates:: 2022-08-19
 # KVTM2022 Character List - MOC
 
 
-- [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
 - [[Extras/Templates/PC Template - KVTM2022|PC Template - KVTM2022]]
 - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
+- [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
