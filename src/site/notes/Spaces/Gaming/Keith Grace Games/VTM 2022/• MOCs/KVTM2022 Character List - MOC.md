@@ -8,4 +8,3 @@ dates:: 2022-08-19
 
 
 - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
-- [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Guinevere|Guinevere]]
