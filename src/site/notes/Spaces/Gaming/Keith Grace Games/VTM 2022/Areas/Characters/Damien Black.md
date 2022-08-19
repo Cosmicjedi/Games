@@ -25,11 +25,11 @@ Tormod is a male of Morse-Scottish ethnicity large man standing 6'7" (200.66cm) 
 
 ## Character Sheet
 ___
-|  |  |   |  |   |  |  |
-| ------------- | --------------- | --- | ------------ | --- | ------------- | --- |
-| Name:         | Damien Black    |     | Nature:      |     | Clan:         | Lasombra    |
-| Player:       | Joshua Coons    |     | Demeanor:    |     | Generation:   | 8   |
-| Chronicle:    |                 |     | Concept:     |     | Sire:         |     |
+|            |              |           |           |             |           |
+| ---------- | ------------ | --------- | --------- | ----------- | --------- |
+| Name:      | Damien Black | Nature:   | Survivor  | Clan:       | Lasombra  |
+| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 8         |
+| Chronicle: |              | Concept:  |           | Sire:       | Magdalena |
 
 ___
 |     | **Attributes** |     |     
