@@ -3,7 +3,6 @@
 ---
 
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
-tags:: #Keith/KVTM2022/Character/PC #Ivy 
 dates:: 2022-08-13
 
 # Guinevere
