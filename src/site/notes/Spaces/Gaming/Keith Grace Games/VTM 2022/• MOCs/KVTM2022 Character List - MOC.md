@@ -8,3 +8,4 @@ dates:: 2022-08-19
 
 
 - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+- [[Extras/Templates/PC Template - KVTM2022|PC Template - KVTM2022]]
