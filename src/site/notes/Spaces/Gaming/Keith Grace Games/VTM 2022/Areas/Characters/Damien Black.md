@@ -135,5 +135,4 @@ Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magda
 
 ### History and Views on The Kindred world
 
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History#Life story|Damien Black History#Life story]]
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History#How Damien Sees the world|Damien Black History#How Damien Sees the world]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History|Damien Black History]]
