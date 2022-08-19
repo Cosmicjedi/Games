@@ -144,6 +144,7 @@ Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magda
 
 </div>
 
+
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
 tags:: #originalWorks #characterhistory
 dates:: 2022-08-12
@@ -229,6 +230,7 @@ Over all view: All of the 3 systems suck. its all just systems to measure penise
 
 
 </div>
+
 
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
 tags:: #originalWorks #characterhistory
