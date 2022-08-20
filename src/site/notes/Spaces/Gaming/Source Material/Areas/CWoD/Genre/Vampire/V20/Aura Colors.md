@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/source-material/areas/c-wo-d/genre/vampire/v20/aura-colors/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: 
+up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Rules MOC|Rules MOC]]
 tags:: 
+dates:: 2022-08-19
 dates:: 2022-08-12
 
 # Aura Colors
