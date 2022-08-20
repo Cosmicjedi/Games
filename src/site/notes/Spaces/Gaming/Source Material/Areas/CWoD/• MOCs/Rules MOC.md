@@ -10,6 +10,7 @@ dates:: 2022-08-19
 
 | Name                                                                                                     |
 | -------------------------------------------------------------------------------------------------------- |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Remain awake.md\|Remain awake]]             |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Zombie Statistics.md\|Zombie Statistics]]   |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Whither Mortis.md\|Whither Mortis]]         |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Seeing the Unseen.md\|Seeing the Unseen]]   |
