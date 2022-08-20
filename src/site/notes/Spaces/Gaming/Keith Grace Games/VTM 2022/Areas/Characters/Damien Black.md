@@ -131,12 +131,12 @@ Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
 Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)
 ### coterie 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
-
-
-
+### NPCs
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Ghouled Retainer
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
 
-### History and Views on The Kindred world
+## History and Views on The Kindred world
 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History|Damien Black History]]
