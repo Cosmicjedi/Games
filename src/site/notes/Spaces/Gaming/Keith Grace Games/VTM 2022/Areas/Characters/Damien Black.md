@@ -74,7 +74,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
 | --------- | ---------- | --------------- | -------- | --- |
-| 8         | 11         | 3               | 6        |   3  | 
+| 8         | 11         | 3               | 6        |   2  | 
 ___
 
 | Merits                                    | Flaws                           |
