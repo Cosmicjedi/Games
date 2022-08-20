@@ -21,7 +21,7 @@ Hair:: Long Red to mid back
 Eyes:: Green
 Skin color:: Sun Bronzed from a life of outside work. 
 Ethnicity:: Norse-Scottish mix
-Tormod is a male of Morse-Scottish ethnicity large man standing 6'7" (200.66cm) tall. he is lean muscle and built for speed and stamina. Read Hair Green Eyes.
+Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) tall. he is lean muscle and built for speed and stamina. Read Hair Green Eyes.
 
 ## Character Sheet
 ___
@@ -74,7 +74,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 14         | 3               | 6        |
+| 8         | 11         | 3               | 6        |
 ___
 
 | Merits                                    | Flaws                           |
