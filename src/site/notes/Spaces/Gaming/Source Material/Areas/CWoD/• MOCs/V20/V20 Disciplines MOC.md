@@ -3,8 +3,7 @@
 ---
 
 up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/V20/V20 Atlas|V20 Atlas]]
-tags:: 
-dates:: 
+tags:: #atlas/MOC🗺 
 
 
 # V20 Disciplines MOC
