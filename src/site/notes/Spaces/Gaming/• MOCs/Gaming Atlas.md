@@ -2,7 +2,7 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/spaces/gaming/mo-cs/gaming-atlas/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
- 
+tags:: #atlas/MOC🗺  
 dates:: 2022-08-19
 
 # Gaming Atlas
