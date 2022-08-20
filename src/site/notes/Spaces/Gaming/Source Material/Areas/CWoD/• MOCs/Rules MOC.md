@@ -14,5 +14,6 @@ dates:: 2022-08-19
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Whither Mortis.md\|Whither Mortis]]         |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Seeing the Unseen.md\|Seeing the Unseen]]   |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Resisting Dominate.md\|Resisting Dominate]] |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Eye Contact.md\|Eye Contact]]               |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Bearing.md\|Bearing]]                       |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Aura Colors.md\|Aura Colors]]               |
