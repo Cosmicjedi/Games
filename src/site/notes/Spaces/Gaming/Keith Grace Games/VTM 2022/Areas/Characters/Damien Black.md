@@ -74,7 +74,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 15         | 3               | 6        |
+| 8         | 14         | 3               | 6        |
 ___
 
 | Merits                                    | Flaws                           |
@@ -90,7 +90,7 @@ ___
 Scottish
 English
 Hebrew
-
+ASL
 ## Build Log
 
 | where                       | how much | Category    |     | Catagories  | total spent |
