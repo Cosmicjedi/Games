@@ -25,7 +25,7 @@ Celerity
 ## notes
 
 Toreador Selina; Suspected lineage:
-[[Arikel|Arikel]], [[Helena|Helena]], [[François|François]] [[Villon|Villon]] (Prince of Paris, France), [[Violetta|Violetta]], [[Spaces/Gaming/Keith Grace Games/z - Retired Games/Las Vegas Mixed cWoD 2022/Areas/Characters/Retired-Selina|Retired-Selina]]. 
+[[Arikel|Arikel]], [[Helena|Helena]], [[François|François]] [[Villon|Villon]] (Prince of Paris, France), [[Violetta|Violetta]], [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]. 
 Whether her name was Selina in life is unknown. 
 Date of embrace suspected after the year 1250.
 
