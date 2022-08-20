@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/source-material/areas/c-wo-d/genre/vampire/v20/resisting-dominate/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: 
+up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Rules MOC|Rules MOC]]
 tags:: 
 dates:: 2022-08-18
 
