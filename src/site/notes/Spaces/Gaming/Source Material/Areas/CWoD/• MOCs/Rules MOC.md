@@ -3,7 +3,7 @@
 ---
 
 up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/CWoD Atlas|CWoD Atlas]]
-tags:: 
+tags:: #atlas/MOC🗺 
 dates:: 2022-08-19
 
 # Rules MOC
