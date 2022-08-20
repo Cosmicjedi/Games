@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/source-material/areas/c-wo-d/genre/vampire/v20/zombie-statistics/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: 
+up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Rules MOC|Rules MOC]]
 tags:: 
-dates:: 2022-08-18
+dates:: 2022-08-19
 
 # Zombie Statistics
 Corpses animated by a necromancer of the
