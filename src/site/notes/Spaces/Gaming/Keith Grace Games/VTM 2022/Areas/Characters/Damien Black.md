@@ -72,9 +72,9 @@ ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
-| Willpower | Blood Pool | Blood Per Round | Humanity |
-| --------- | ---------- | --------------- | -------- |
-| 8         | 11         | 3               | 6        |
+| Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
+| --------- | ---------- | --------------- | -------- | --- |
+| 8         | 11         | 3               | 6        |   3  | 
 ___
 
 | Merits                                    | Flaws                           |
