@@ -4,7 +4,6 @@
 
 up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Rules MOC|Rules MOC]]
 tags:: 
-dates:: 2022-08-19
 dates:: 2022-08-12
 
 # Aura Colors
