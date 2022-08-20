@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/source-material/areas/c-wo-d/genre/vampire/v20/whither-mortis/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Rules MOC|Rules MOC]]
+tags:: 
+dates:: 2022-08-19
+
 # Whither Mortis?
 Lost Clans and bloodlines, such as the Cappadocians
 and the Lamia, had access to an
