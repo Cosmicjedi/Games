@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/source-material/areas/c-wo-d/genre/vampire/v20/bearing/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Rules MOC|Rules MOC]]
+tags:: 
+dates:: 2022-08-19
+
 # Bearing
 A vampire’s morality has a direct impact on
 her bearing — a feeling the Kindred unconsciously
