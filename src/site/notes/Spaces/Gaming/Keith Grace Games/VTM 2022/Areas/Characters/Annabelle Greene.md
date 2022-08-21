@@ -13,9 +13,12 @@ Date of Ghouling:: April 4 1967
 Nature:: Rebel
 Demeanor:: Competitor
 
+## Backgrounds
+Contacts
+Backup
 
 ## Skills
-computers dicepool 8
+computers dice pool 8
 Custodian 4
 Veil of blood: 4
 ## Powers
@@ -25,4 +28,4 @@ Dominate 2
 
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Requirements for Annabelle to Earn Embrace|Requirements for Annabelle to Earn Embrace]]
-was a former recruitment target of [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Talons of Black Rage|Talons of Black Rage]]
+Was a former recruitment target of [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Talons of Black Rage|Talons of Black Rage]]
