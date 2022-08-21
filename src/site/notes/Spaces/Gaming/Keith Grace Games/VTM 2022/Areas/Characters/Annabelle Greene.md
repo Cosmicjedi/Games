@@ -14,10 +14,15 @@ Nature:: Rebel
 Demeanor:: Competitor
 
 
-### Skills
-
-
-
-### Powers
+## Skills
+computers dicepool 8
+Custodian 4
+Veil of blood: 4
+## Powers
 Obtenebration 3
 Dominate 2
+
+
+## Notes
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Requirements for Annabelle to Earn Embrace|Requirements for Annabelle to Earn Embrace]]
+was a former recruitment target of [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Talons of Black Rage|Talons of Black Rage]]
