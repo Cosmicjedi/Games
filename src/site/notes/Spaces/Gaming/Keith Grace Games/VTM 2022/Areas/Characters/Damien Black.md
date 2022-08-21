@@ -44,18 +44,18 @@ ___
 |     | **Abilities** |     |     
 | --- | ----------------- | --- | 
 ___
-| Talents       |          | Skills       |          | Knowledges     |          |
-| ------------- | -------- | ------------ | -------- | -------------- | -------- |
-| Alertness:    | 🔵🔵     | Animal Ken:  |          | Academics:     |          |
-| Athletics:    | 🔵🔵🔵🔵 | Crafts:      | 🔵🔵     | Computer:      |          |
-| Awareness:    |          | Drive:       | 🔵🔵     | Finance:       | 🔵🔵     |
-| Brawl:        | 🔵🔵🔵🔵 | Etiquette:   |           | Investigation: | 🔵🔵🔵   |
-| Empathy:      |          | Firearms:    |          | Law:           |          |
-| Expression:   |          | Larceny:     |          | Medicine:      |          |
-| Intimidation: | 🔵🔵🔵🔵 | Melee:       |🔵🔵          | Occult:        | 🔵🔵🔵🔵 |
-| Leadership:   | 🔵🔵🔵🔵 | Performance: | 🔵🔵   | Politics:      |          |
-| Streetwise:   |          | Stealth:     | 🔵🔵🔵🔵 | Science:       | 🔵🔵     |
-| Subterfuge:   | 🔵🔵🔵🔵 | Survival:    | 🔵🔵🔵🔵 | Technology:    | 🔵🔵     | 
+| Talents       |          | Skills       |          | Knowledges            |          |
+| ------------- | -------- | ------------ | -------- | --------------------- | -------- |
+| Alertness:    | 🔵🔵     | Animal Ken:  |          | Academics:            |          |
+| Athletics:    | 🔵🔵🔵🔵 | Crafts:      | 🔵🔵     | Computer:             |          |
+| Awareness:    |          | Drive:       | 🔵🔵     | Finance:              | 🔵🔵     |
+| Brawl:        | 🔵🔵🔵🔵 | Etiquette:   |          | Investigation:        | 🔵🔵🔵   |
+| Empathy:      |          | Firearms:    |          | Law:                  |          |
+| Expression:   |          | Larceny:     |          | Medicine:             |          |
+| Intimidation: | 🔵🔵🔵🔵 | Melee:       | 🔵🔵     | Occult: Obtenebration | 🔵🔵🔵🔵 | 
+| Leadership:   | 🔵🔵🔵🔵 | Performance: | 🔵🔵     | Politics:             |          |
+| Streetwise:   |          | Stealth:     | 🔵🔵🔵🔵 | Science:              | 🔵🔵     |
+| Subterfuge:   | 🔵🔵🔵🔵 | Survival:    | 🔵🔵🔵🔵 | Technology:           | 🔵🔵     |
 ___
 |     | **Advantages** |     |     
 | --- | ----------------- | --- | 
@@ -74,7 +74,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
 | --------- | ---------- | --------------- | -------- | --- |
-| 8         | 11         | 3               | 6        |   2  | 
+| 8         | 11         | 3               | 6        |     | 
 ___
 
 | Merits                                    | Flaws                           |
@@ -86,6 +86,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)               |  |
 
 ---
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Dice Pools|Dice Pools]]
 ## Languages
 Scottish
 English
