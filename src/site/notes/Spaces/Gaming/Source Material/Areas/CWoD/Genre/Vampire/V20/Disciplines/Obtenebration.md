@@ -21,8 +21,7 @@ The player rolls **Manipulation + Occult** (*difficulty 7*). Success on the roll
 ## ••• Arms of the Abyss
 Refining his control over darkness, the Kindred can create prehensile tentacles that emerge from patches of dim lighting. These tentacles may grasp, restrain, and constrict foes.
 ### System: 
-The player spends a blood point and makes a simple (never extended) **Manipulation + Occult** roll (*difficulty 7*); each *success enables the creation of a single tentacle.* **Each tentacle is six feet (two meters) long** and **possesses Strength and Dexterity ratings equal to the invoking vampire’s Obtenebration Trait** - **Potence and Celerity dots are added to these Strength and Dexterity ratings, respectively.** *If the vampire chooses, she may spend a blood point either to increase a single tentacle’s Strength or Dexterity by one or to extend its length by another six feet or two meters.* **Each tentacle has four health levels, is affected by fire and sunlight as if it were a vampire, and soaks bashing and lethal damage using the vampire’s Stamina + Fortitude. Aggravated damage may not be soaked.** *Tentacles may constrict foes, inflicting (Strength +1)
-lethal damage per turn.* Breaking the grasp of a tentacle requires the victim to win a resisted Strength roll against the tentacle (*difficulty 6 for each*). However, tentacles cannot be used for any kind of manipulation, such as typing or driving. All tentacles need not emanate from the same source — so long as there are multiple patches of suitable darkness, there are sources for the Arms of the Abyss. Controlling the tentacles does not require complete concentration; if the Kindred is not incapacitated or in torpor, she may control tentacles while carrying out other actions.
+The player spends a blood point and makes a simple (never extended) **Manipulation + Occult** roll (*difficulty 7*); each *success enables the creation of a single tentacle.* **Each tentacle is six feet (two meters) long** and **possesses Strength and Dexterity ratings equal to the invoking vampire’s Obtenebration Trait** - **Potence and Celerity dots are added to these Strength and Dexterity ratings, respectively.** *If the vampire chooses, she may spend a blood point either to increase a single tentacle’s Strength or Dexterity by one or to extend its length by another six feet or two meters.* **Each tentacle has four health levels, is affected by fire and sunlight as if it were a vampire, and soaks bashing and lethal damage using the vampire’s Stamina + Fortitude. Aggravated damage may not be soaked.** *Tentacles may constrict foes, inflicting (Strength +1) lethal damage per turn.* Breaking the grasp of a tentacle requires the victim to win a resisted Strength roll against the tentacle (*difficulty 6 for each*). However, tentacles cannot be used for any kind of manipulation, such as typing or driving. All tentacles need not emanate from the same source — so long as there are multiple patches of suitable darkness, there are sources for the Arms of the Abyss. Controlling the tentacles does not require complete concentration; if the Kindred is not incapacitated or in torpor, she may control tentacles while carrying out other actions.
 ## •••• Black Metamorphosis
 The Cainite calls upon his inner darkness and infuses himself with it, becoming a monstrous hybrid of matter and shadow. His body becomes mottled with spots of tenebrous shade, and wispy tentacles extrude from his torso and abdomen. Though still humanoid, the vampire takes on an almost demonic appearance, as the darkness within him bubbles to the surface.
 ### System: 
@@ -41,60 +40,21 @@ At this level, the Kindred’s mastery of darkness is so extensive that she may 
 ## ••••• • The Darkness Within
 This power allows the Cainite to call forth the darkness contained in her black soul. This enormous, turbulent shadow vomits from the vampire’s mouth, though some vampires are said to cut themselves and let the blackness seep from their veins. The shadow-cloud engulfs a chosen target, burning it with a soul-scarring chill and siphoning its blood away in torrents.
 ### System: 
-The player makes a Willpower roll (*difficulty 6*) and spends a blood point. The resulting shadow envelops the target and, though it does not physically harm the victim, it may strike terror into him. Individuals observing the Darkness Within, whether as targets or onlookers, may suffer from the terror described under Black Metamorphosis, unless they are already familiar with the Kindred’s power. Individuals touched by The Darkness Within lose one point of blood per turn, though **targets may resist this effect by succeeding on a Stamina roll** (*difficulty 6*) each turn the target remains in contact with the cloud. The Cainite invoking The Darkness Within must devote all her attention to maintaining the cloud. If the vampire is attacked, the darkness immediately returns to her through whatever orifice it originated. The Cainite can summon the darkness back at any time,
-gaining a number of blood points equal to one-half the number the shadow siphoned from its victims (round up). Taking blood from another in this fashion is similar to drinking from that vampire, and blood bonds may result. Additionally, the Darkness Within may
-take blood from only one individual per turn, though it may be in contact with many.
+The player makes a Willpower roll (*difficulty 6*) and spends a blood point. The resulting shadow envelops the target and, though it does not physically harm the victim, it may strike terror into him. Individuals observing the Darkness Within, whether as targets or onlookers, may suffer from the terror described under Black Metamorphosis, unless they are already familiar with the Kindred’s power. Individuals touched by The Darkness Within lose one point of blood per turn, though **targets may resist this effect by succeeding on a Stamina roll** (*difficulty 6*) each turn the target remains in contact with the cloud. The Cainite invoking The Darkness Within must devote all her attention to maintaining the cloud. If the vampire is attacked, the darkness immediately returns to her through whatever orifice it originated. The Cainite can summon the darkness back at any time, gaining a number of blood points equal to one-half the number the shadow siphoned from its victims (round up). Taking blood from another in this fashion is similar to drinking from that vampire, and blood bonds may result. Additionally, the Darkness Within may take blood from only one individual per turn, though it may be in contact with many.
 ## ••••• • Shadowstep
 The vampire has such fine control over the darkness that he may become it briefly and reform himself from other darkness close by. The vampire may Shadowstep through walls, floors, and even mystical barriers. The Cainite simply steps “into” a shadow and reemerges from another shadow a short distance away (or next to the barrier, if there is no shadow on the other side). 
 ### System: 
-The player rolls **Dexterity + Occult**, and on a successful roll, the character may emerge from another shadow no more than 50 feet (or 15 meters) away. Failing the roll means simply that the character cannot step through the shadow-realm, while a botch signifies
-the character has become trapped between shadows (which fiendish Storytellers should have a heyday with). Pulling another individual through the shadow requires a **Strength + Occult** roll, with consequences for failure similar to failing by oneself.
+The player rolls **Dexterity + Occult**, and on a successful roll, the character may emerge from another shadow no more than 50 feet (or 15 meters) away. Failing the roll means simply that the character cannot step through the shadow-realm, while a botch signifies the character has become trapped between shadows (which fiendish Storytellers should have a heyday with). Pulling another individual through the shadow requires a **Strength + Occult** roll, with consequences for failure similar to failing by oneself.
 ## ••••• •• Shadow Twin
 The vampire’s control over darkness has progressed to such a degree that he may bestow upon it a limited degree of sentience. By animating his own shadow or that of another, the Cainite can actually “free” the shadow cast by light. While this power is active, the subject casts no shadow, as it has left to pursue the vampire’s commands. This power can unnerve mortals and even a few inexperienced vampires. The Kindred wielding Obtenebration commands the individual’s shadow; some vampires report having seen mortals literally scared to death, as their shadows leapt away to taunt or menace them.
 ### System: 
-The player spends a blood point and makes a **Willpower roll** (*difficulty 8*). If the roll succeeds, the shadow springs to unholy freedom for one hour per success (though it disappears at sunrise regardless of how many successes the vampire had). The Shadow
-Twin has Attribute and Ability ratings equal to half those of its parent body; they won’t do much talking or thinking, so Mental and Social Traits don’t matter much, though Wits may come into play. Additionally, the Shadow Twin has an Obtenebration score equal to one-half of that of the vampire who animated it (rounded down). Mortals and vampires unused to Obtenebration require a Courage roll upon witnessing this, as per Shadow Play. The twin may separate itself from the parent and travel up to 50 feet or 15 meters away, crawling
-through crevices or sliding up walls. It may attack and be attacked, though it takes and does only half damage (again, round down). Flame and supernatural attacks (such as vampire fangs, mystical powers, etc.) do full damage. If the Shadow Twin is killed, its parent loses half her Willpower points and must roll to avoid Rötschreck (difficulty 9).
+The player spends a blood point and makes a **Willpower roll** (*difficulty 8*). If the roll succeeds, the shadow springs to unholy freedom for one hour per success (though it disappears at sunrise regardless of how many successes the vampire had). The Shadow Twin has Attribute and Ability ratings equal to half those of its parent body; they won’t do much talking or thinking, so Mental and Social Traits don’t matter much, though Wits may come into play. Additionally, the Shadow Twin has an Obtenebration score equal to one-half of that of the vampire who animated it (rounded down). Mortals and vampires unused to Obtenebration require a Courage roll upon witnessing this, as per Shadow Play. The twin may separate itself from the parent and travel up to 50 feet or 15 meters away, crawling through crevices or sliding up walls. It may attack and be attacked, though it takes and does only half damage (again, round down). Flame and supernatural attacks (such as vampire fangs, mystical powers, etc.) do full damage. If the Shadow Twin is killed, its parent loses half her Willpower points and must roll to avoid Rötschreck (*difficulty 9*).
 ## ••••• ••• Oubliette
-By creating a “chamber” of pure darkness, the Cainite may entrap or smother her enemies. No air exists in this shadow-trap, and mortals suffocate within its chilling void. Even vampires have little recourse once
-trapped — they may leave only at their captor’s whim.
-The Oubliette appears as a dense patch of shadow, unaffected
-by ambient light around it.
-System: The vampire spends a blood point, but no
-roll is necessary to create the Oubliette. To actually
-create the Oubliette around someone requires a contested
-Wits + Larceny roll against the target’s Dexterity + Occult (difficulty 7 for both rolls). Mortals suffocate
-within a number of minutes equal to their Stamina
-(though the Lasombra may choose to leave their heads
-exposed or trap a quantity of air inside as well), while
-vampires are simply suspended impotently in darkness
-and may not use Disciplines or take other actions. The
-Oubliette vanishes instantly when touched by sunlight
-— which has left more than one vampire exposed to the
-sun’s unforgiving rays — or when the Kindred chooses
-to relax it. A vampire may maintain only one Oubliette
-at a time (which can only contain one target at a time),
-which leads some Cainite philosophers to argue that it
-is a prison created from the vampire’s very soul.
+By creating a “chamber” of pure darkness, the Cainite may entrap or smother her enemies. No air exists in this shadow-trap, and mortals suffocate within its chilling void. Even vampires have little recourse once trapped — they may leave only at their captor’s whim. The Oubliette appears as a dense patch of shadow, unaffected by ambient light around it. 
+### System: 
+The vampire spends a blood point, but no roll is necessary to create the Oubliette. To actually create the Oubliette around someone requires a contested **Wits + Larceny** roll against the target’s **Dexterity + Occult** (*difficulty 7* for both rolls). Mortals suffocate within a number of minutes equal to their Stamina (though the Lasombra may choose to leave their heads exposed or trap a quantity of air inside as well), while vampires are simply suspended impotently in darkness and may not use Disciplines or take other actions. The Oubliette vanishes instantly when touched by sunlight - which has left more than one vampire exposed to the sun’s unforgiving rays  or when the Kindred chooses to relax it. A vampire may maintain only one Oubliette at a time (which can only contain one target at a time), which leads some Cainite philosophers to argue that it is a prison created from the vampire’s very soul.
 ## ••••• •••• Ahriman’s Demesne
-This power allows the vampire to summon a darkness
-so oppressive that it extinguishes the light of life
-— or unlife — of any victim trapped within it. Ahriman’s
-Demesne creates a 50-foot (or 15-meter) radius
-of void that issues from the Cainite’s hand and takes
-away the bodies of those it claims when it vanishes.
-The overwhelming darkness destroys friend and foe
-alike, claiming anyone unfortunate enough to be within
-its circumference.
-System: The player spends two points of Willpower
-and concentrates for three turns. During this time, the
-blackness billows out of the character’s hand, growing
-to fill the area. At the end of the third turn, the player
-rolls Manipulation + Occult (difficulty 6). Everyone
-in the darkness’ area suffers that many health levels of
-damage (aggravated, if the victims are vampires) outright
-— six successes yield six levels of damage, not
-six dice of damage. After Ahriman’s Demesne does its
-damage, it collapses, taking with it the bodies of any
-who died when they came in contact with the dreadful
-shadow.
+This power allows the vampire to summon a darkness so oppressive that it extinguishes the light of life - or unlife - of any victim trapped within it. Ahriman’s
+Demesne creates a 50-foot (or 15-meter) radius of void that issues from the Cainite’s hand and takes away the bodies of those it claims when it vanishes. The overwhelming darkness destroys friend and foe alike, claiming anyone unfortunate enough to be within its circumference. 
+### System: 
+The player spends two points of Willpower and concentrates for three turns. During this time, the blackness billows out of the character’s hand, growing to fill the area. At the end of the third turn, the player rolls **Manipulation + Occult** (*difficulty 6*). Everyone in the darkness’ area suffers that many health levels of damage (aggravated, if the victims are vampires) outright - six successes yield six levels of damage, not six dice of damage. After Ahriman’s Demesne does its damage, it collapses, taking with it the bodies of any who died when they came in contact with the dreadful shadow.
