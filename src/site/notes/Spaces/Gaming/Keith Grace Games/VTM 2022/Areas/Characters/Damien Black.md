@@ -21,6 +21,7 @@ Hair:: Long Red to mid back
 Eyes:: Green
 Skin color:: Sun Bronzed from a life of outside work. 
 Ethnicity:: Norse-Scottish mix
+
 Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) tall. he is lean muscle and built for speed and stamina. Read Hair Green Eyes.
 
 ## Character Sheet
@@ -68,15 +69,21 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]     | 🔵🔵🔵                                                                                                                                                                                                         | Retainers   | 🔵🔵🔵   |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]     | 🔵🔵                                                                                                                                                                                                           | Library     | 🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]      | 🔵                                                                                                                                                                                                             | Resources   | 🔵🔵     |               |            |
-___
+
+---
+| Abyssal Rituals   |     |
+| ----------------- | --- |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Eyes of the Abyss|Eyes of the Abyss]] |     |
+
+---
+
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
 | --------- | ---------- | --------------- | -------- | --- |
-| 8         | 11         | 3               | 6        |     | 
+| 8         | 15         | 3               | 6        |     | 
 ___
-
 | Merits                                    | Flaws                           |
 | ----------------------------------------- | ------------------------------- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)              | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)      |
@@ -86,12 +93,13 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)               |  |
 
 ---
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Dice Pools|Dice Pools]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
-Scottish
+Scottish/Celtic
 English
 Hebrew
 ASL
+
 ## Build Log
 
 | where                       | how much | Category    |     | Catagories  | total spent |
