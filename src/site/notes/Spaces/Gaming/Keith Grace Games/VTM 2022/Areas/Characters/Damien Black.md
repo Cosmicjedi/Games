@@ -71,9 +71,9 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]      | 🔵                                                                                                                                                                                                             | Resources   | 🔵🔵     |               |            |
 
 ---
-| Abyssal Rituals   |     |
+| Abyssal Rituals   |  Level   |
 | ----------------- | --- |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Eyes of the Abyss|Eyes of the Abyss]] |     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss|Eyes of the Abyss]] |  1   |
 
 ---
 
