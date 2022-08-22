@@ -38,8 +38,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Blush of Health.md\|Blush of Health]]                     | 1    | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Ambidextrous.md\|Ambidextrous]]                           | 1    | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Acute Sense.md\|Acute Sense]]                             | 1    | Physical     | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Scholar of Others.md\|Scholar of Others]]                 | 2    | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Sanctity.md\|Sanctity]]                                   | 2    | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Scholar of Others.md\|Scholar of Others]]                 | 2    | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Open Road.md\|Open Road]]                                 | 2    | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Old Pal.md\|Old Pal]]                                     | 2    | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Natural Linguist.md\|Natural Linguist]]                   | 2    | Mental       | Vampire |
