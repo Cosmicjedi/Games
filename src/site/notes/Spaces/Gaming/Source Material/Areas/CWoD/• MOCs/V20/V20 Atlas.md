@@ -10,6 +10,7 @@ dates:: 2022-08-10
 
 | Name                                                                                                | Modified  |
 | --------------------------------------------------------------------------------------------------- | --------- |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/Abyssal Mysticism MOC.md\|Abyssal Mysticism MOC]] | 2022-8-22 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/V20/V20 Disciplines MOC.md\|V20 Disciplines MOC]] | 2022-8-19 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/V20/V20 Flaws MOC.md\|V20 Flaws MOC]]             | 2022-8-19 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/V20/V20 Merits MOC.md\|V20 Merits MOC]]           | 2022-8-19 |
