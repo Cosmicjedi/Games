@@ -102,7 +102,7 @@ Scottish/Celtic
 English
 Hebrew
 ASL
-
+French
 ## Build Log
 
 | where                       | how much | Category    |     | Catagories  | total spent |
