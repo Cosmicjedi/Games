@@ -145,10 +145,11 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
 ### NPCs
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Ghoul Retainer
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
+
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
-
+### Relationships 
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## History and Views on The Kindred world
 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History|Damien Black History]]
