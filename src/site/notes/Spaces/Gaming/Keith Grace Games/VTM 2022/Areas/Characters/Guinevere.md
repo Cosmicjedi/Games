@@ -27,3 +27,8 @@ Oldest Brother: Gawain  -  15 Years older
 Older Sister: Gautzelin   -   14 Years older
 Older Brother: Perceval  -   10 Years older
 
+Clan:: Toreador
+Sire::
+Generation:: 8th
+Type:: Vampire
+Player:: Dead
