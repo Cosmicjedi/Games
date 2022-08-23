@@ -18,13 +18,13 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Special Responsibility.md\|Special Responsibility]]       | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Soft-Hearted.md\|Soft-Hearted]]                           | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Smell of the Grave.md\|Smell of the Grave]]               | 1      | Physical     | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Shy.md\|Shy]]                                             | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Sire’s Resentment.md\|Sire’s Resentment]]                 | 1      | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Shy.md\|Shy]]                                             | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Short.md\|Short]]                                         | 1      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Recruitment Target.md\|Recruitment Target]]               | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Prey Exclusion.md\|Prey Exclusion]]                       | 1      | Mental       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Nightmares.md\|Nightmares]]                               | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Kid.md\|New Kid]]                                     | 1      | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Nightmares.md\|Nightmares]]                               | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Arrival.md\|New Arrival]]                             | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Mistaken Identity.md\|Mistaken Identity]]                 | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Infamous Sire.md\|Infamous Sire]]                         | 1      | Social       | Vampire |
@@ -45,8 +45,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Phobia.md\|Phobia]]                                       | 2      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/One Eye.md\|One Eye]]                                     | 2      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Old Flame.md\|Old Flame]]                                 | 2      | Social       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Lunacy.md\|Lunacy]]                                       | 2      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Masquerade Breaker.md\|Masquerade Breaker]]               | 2      | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Lunacy.md\|Lunacy]]                                       | 2      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Lord of the Flies.md\|Lord of the Flies]]                 | 2      | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death.md\|Kiss of Death]]                         | 2      | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Infectious Bite.md\|Infectious Bite]]                     | 2      | Physical     | Vampire |
