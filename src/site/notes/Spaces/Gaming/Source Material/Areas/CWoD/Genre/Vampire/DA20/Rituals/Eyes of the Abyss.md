@@ -12,8 +12,9 @@ Level:: 1
 With this ritual, the Abyss Mystic summons tiny denizens of the Abyss to act as her servants, most often being used as spies.
 ### System: 
 The vampire crushes a small flame(e.g. a lit candle) in her bare hand, taking a level of aggravated damage.  She then makes a **Rötschreck** check, *difficulty 4.* If she succeeds, roll **Intelligence + Occult**, *difficulty 6*. 
-A botch results in an additional level of aggravated damage. 
-On a success, a tiny Abyss elemental is summoned and consumes the extinguished flame.
+
++ A botch results in an additional level of aggravated damage. 
++ On a success, a tiny Abyss elemental is summoned and consumes the extinguished flame.
 
 The creature remains a number of nights equal to the successes rolled. The elemental will respond to and obey all commands given by the caster. It cannot affect the material world, though it can communicate mentally by entering a person’s shadow. 
 
