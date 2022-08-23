@@ -5,8 +5,11 @@
 up:: [[Spaces/Gaming/• MOCs/Gaming Atlas|Gaming Atlas]]
 dates:: 2022-08-19
 
-# KVTM2022 Character List - MOC
+# KVTM2022 Character List
 
 
-- [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
-- [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
+| Name                                                                                            | Clan     | Gen | Sire                                                                                                 | Type    | Player       |
+| ----------------------------------------------------------------------------------------------- | -------- | --- | ---------------------------------------------------------------------------------------------------- | ------- | ------------ |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black.md\|Damien Black]]     | Lasombra | 8th | [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino) | Vampire | Joshua Coons |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine.md\|Viktor Carmine]] | Ventrue  | 8th | \-                                                                                                   | Vampire | Mathew       |
+
