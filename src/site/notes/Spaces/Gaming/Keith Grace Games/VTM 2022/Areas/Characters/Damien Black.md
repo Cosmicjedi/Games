@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/keith-grace-games/vtm-2022/areas/characters/damien-black/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
-tags:: #Keith/KVTM2022/Character/PC #mine 
+up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|Character List]]
+tags:: #Keith/KVTM2022/Character/PC
 dates:: 2022-08-09
+Clan:: Lasombra
+Player::Joshua Coons
+Type:: Vampire
 
 # Damien Black
 ## Birth Death Details
@@ -137,7 +140,7 @@ ASL
 ## Relationships
 ### Lineage
 Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
-Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)
+Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)
 ### coterie 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
 ### NPCs
