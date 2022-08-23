@@ -12,7 +12,8 @@ Born:: Oct 31 1949
 Date of Ghouling:: April 4 1967
 Nature:: Rebel
 Demeanor:: Competitor
-
+Type:: Ghoul
+Player:: NPC
 ## Backgrounds
 Contacts
 Backup
