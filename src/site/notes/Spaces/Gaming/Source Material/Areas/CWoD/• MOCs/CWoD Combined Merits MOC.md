@@ -22,8 +22,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Language.md\|Language]]                                   | 1    | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Introspection.md\|Introspection]]                         | 1    | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Inoffensive to Animals.md\|Inoffensive to Animals]]       | 1    | Supernatural | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Healing Touch.md\|Healing Touch]]                         | 1    | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Harmless.md\|Harmless]]                                   | 1    | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Healing Touch.md\|Healing Touch]]                         | 1    | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Friendly Face.md\|Friendly Face]]                         | 1    | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Former Ghoul.md\|Former Ghoul]]                           | 1    | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Elysium Regular.md\|Elysium Regular]]                     | 1    | Social       | Vampire |
