@@ -11,7 +11,7 @@ Clan:: Toreador
 Generation:: 7th? or 8th?
 Sire:: [[Violetta|Violetta]]
 Player:: NPC
-Creature Type:: Vampire
+Type:: Vampire
 ## Description
 
 
