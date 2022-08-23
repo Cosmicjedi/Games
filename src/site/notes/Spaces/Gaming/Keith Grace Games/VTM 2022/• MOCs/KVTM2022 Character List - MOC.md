@@ -8,11 +8,14 @@ dates:: 2022-08-19
 # KVTM2022 Character List
 
 
+
 | Name                                                                                                | Clan     | Gen          | Sire                                                                                                 | Type    | Player |
 | --------------------------------------------------------------------------------------------------- | -------- | ------------ | ---------------------------------------------------------------------------------------------------- | ------- | ------ |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Alexi.md\|Alexi]]                       | Ravnos   | \-           | \-                                                                                                   | Vampire | NPC    |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene.md\|Annabelle Greene]] | \-       | \-           | \-                                                                                                   | Ghoul   | NPC    |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Guinevere.md\|Guinevere]]               | Toreador | 8th          | \-                                                                                                   | Vampire | Dead   |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black.md\|Damien Black]]         | Lasombra | 8th          | [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino) | Vampire | Joshua |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina.md\|Selina]]                     | Toreador | 7th? or 8th? | [[Violetta\|Violetta]]                                                                               | Vampire | NPC    |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine.md\|Viktor Carmine]]     | Ventrue  | 8th          | \-                                                                                                   | Vampire | Mathew |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina.md\|Selina]]                     | Toreador | 7th? or 8th? | [[Violetta\|Violetta]]                                                                               | Vampire | NPC    |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene.md\|Annabelle Greene]] | \-       | \-           | \-                                                                                                   | Ghoul   | NPC    |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Alexi.md\|Alexi]]                       | Ravnos   | \-           | \-                                                                                                   | Vampire | NPC    |
 
+`
