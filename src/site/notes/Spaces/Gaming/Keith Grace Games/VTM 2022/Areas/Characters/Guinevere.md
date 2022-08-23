@@ -4,7 +4,7 @@
 
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
 dates:: 2022-08-13
-
+tags: #dead
 # Guinevere
 
 Birth: 04.07.1601 (July 4th)
@@ -32,3 +32,4 @@ Sire::
 Generation:: 8th
 Type:: Vampire
 Player:: Dead
+KilledBy:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Doran|Doran]]
