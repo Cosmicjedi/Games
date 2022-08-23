@@ -3,13 +3,15 @@
 ---
 
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
-tags:: #Keith/KVTM2022/Character/NPC  #LasVegas #ally #vampire #toreador
+tags:: #Keith/KVTM2022/Character/NPC
 dates:: 2022-07-29
 
 # Selina
-Clan: Toreador
-Generation: 7th? or 8th?
-Sire: [[Violetta|Violetta]]
+Clan:: Toreador
+Generation:: 7th? or 8th?
+Sire:: [[Violetta|Violetta]]
+Player:: NPC
+Creature Type:: Vampire
 ## Description
 
 
