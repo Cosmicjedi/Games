@@ -6,7 +6,7 @@ up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List
 tags:: #Keith/KVTM2022/Character/PC
 dates:: 2022-08-09
 Clan:: Lasombra
-Player::Joshua Coons
+Player::Joshua
 Type:: Vampire
 
 # Damien Black
