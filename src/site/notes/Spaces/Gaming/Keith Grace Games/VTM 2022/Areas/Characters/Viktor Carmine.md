@@ -5,6 +5,9 @@
 up:: [[Spaces/Gaming/Keith Grace Games/z - Retired Games/Las Vegas Mixed cWoD 2022/• MOCs/LV Character List - MOC|Character List]]
 tags:: #Keith/KVTM2022/Character/PC #Mathew
 dates:: 2022-08-19
+Type:: Vampire
+Player:: Mathew
+
 # Viktor Carmine
 
 
@@ -15,8 +18,8 @@ Chronicle: KVTM2022
 Nature:
 Demeanor:
 Concept: 
-Clan: Ventrue
-Generation: 8
+Clan:: Ventrue
+Generation:: 8th
 Sire:
 ## Description
 
@@ -28,7 +31,7 @@ Sire:
 
 ## Relationships
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]] -former rival and now ally and coterie mate
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Guinevere|Guinevere]] - long time ally and friend, coterie mate 
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Guinevere|Guinevere]] **deceased** - long time ally and friend, coterie mate 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Sean McGrath|Sean McGrath]] - former rival and now ally and coterie mate
 
 
