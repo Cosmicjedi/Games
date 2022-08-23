@@ -76,7 +76,7 @@ ___
 ---
 | Abyssal Rituals   |  Level   |
 | ----------------- | --- |
-| [[Eyes of the Abyss\|Eyes of the Abyss]] |  1   |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] |  1   |
 
 ---
 
