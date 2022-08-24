@@ -20,6 +20,9 @@ Backup
 
 ## Skills
 computers dice pool 8
+int+computers dice pool 8
+Int specialty subject authority
+occult specialty kindred lore
 Custodian 4
 Veil of blood: 4
 ## Powers
