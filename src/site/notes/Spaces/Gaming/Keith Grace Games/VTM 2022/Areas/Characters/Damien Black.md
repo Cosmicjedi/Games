@@ -84,7 +84,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
 | --------- | ---------- | --------------- | -------- | --- |
-| 8         | 20/20         | 5               | 5        |  1   | 
+| 8         | 20/20         | 5               | 5        |  6   | 
 ___
 | Merits                                    | Flaws                           |
 | ----------------------------------------- | ------------------------------- |
@@ -130,11 +130,6 @@ French
 | flaws                       | -7       | flaws       |     |             |             |
 | Library 4                   | 1        | backgrounds |     |             |             |
 | Unbondable                  | 5        | Merits      |     |             |             |
-
-
-
-
-
 
 ## Relationships
 ### Lineage
