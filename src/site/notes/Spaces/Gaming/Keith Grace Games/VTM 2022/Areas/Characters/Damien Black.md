@@ -24,7 +24,6 @@ Hair:: Long Red to mid back
 Eyes:: Green
 Skin color:: Sun Bronzed from a life of outside work. 
 Ethnicity:: Norse-Scottish mix
-
 Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) tall. he is lean muscle and built for speed and stamina. Read Hair Green Eyes.
 
 ## Character Sheet
@@ -32,7 +31,7 @@ ___
 |            |              |           |           |             |           |
 | ---------- | ------------ | --------- | --------- | ----------- | --------- |
 | Name:      | Damien Black | Nature:   | Survivor  | Clan:       | Lasombra  |
-| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 8         |
+| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 7         |
 | Chronicle: |              | Concept:  |           | Sire:       | Magdalena |
 
 ___
@@ -85,7 +84,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
 | --------- | ---------- | --------------- | -------- | --- |
-| 8         | 14         | 3               | 6        |  1   | 
+| 8         | 20/20         | 5               | 5        |  1   | 
 ___
 | Merits                                    | Flaws                           |
 | ----------------------------------------- | ------------------------------- |
@@ -151,5 +150,4 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 ### Relationships 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## History and Views on The Kindred world
-
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History|Damien Black History]]
