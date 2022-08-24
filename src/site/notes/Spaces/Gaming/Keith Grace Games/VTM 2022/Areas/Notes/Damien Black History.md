@@ -70,7 +70,7 @@ Over all view: All of the 3 systems suck. its all just systems to measure penise
 * **Seneschal** less power more freedom. for the right prince I would serve as Seneschal but those I am likely to be willing to serve in this role likely wont want or need me. 
 *  **Harpy** - Keeper of status lets avoid their scorn. better to be held by an Ancilla than an elder. 
 * **Keeper of Elysium** - This job I would do and would take pleasure in securing and protecting our sacred and safe places. I might seek this position out if the opportunity arises.
-* **Sheriff** - This job I would also do but I would have to be asked as long as the prince has honor. I will not seek to be the instrument of someone else justice.
+* **Sheriff** -  as long as the prince has honor, This job I would also do but I would have to be asked. I will not seek to be the instrument of someone else justice.
 * **Scourge** - I am capable of filling this post but have little desire to do so, and would likely refuse the offer to the post.
 * **Primeogen** - Seldom do princes grant us a seat at the table to represent our clan if that is offered I will take it. if it is offered to represent all the non-traditionally camarilla clans as a single voice I would also take it. 
 * **whip** - if they are truly politically skilled and who can actually whip the votes the primeogen needs then they are useful if they stand around waiting for there boss to take a nap so they can put on his shoes they are useless. I do not desire this position and would see its offering as an insult.
