@@ -63,21 +63,23 @@ creature is not likely to exist for long. At each sunrise, the vampire must roll
 Not content with merely commanding their subjects, some elders apply this power to ensure obedience from recalcitrant victims. Chain the Psyche is a Dominate technique that inflicts incapacitating pain on a target who attempts to break the vampire’s commands.
 
 ### System: 
-The player spends a blood point when her character applies Dominate to a subject. Any attempt that the subject makes to act against the vampire’s implanted commands or to recover stolen memories causes intense pain. When such an attempt is made, the 
-Storyteller rolls the character‘s Manipulation + Intimidation (difficulty equal to the subject’s Stamina + Empathy). Each success equals one turn that the victim is unable to act, as she is wracked with agony. Each application of Chain the Psyche crushes a number of resistance attempts equal to the character’s Manipulation rating, after which the effect fades.
+The player spends a blood point when her character applies Dominate to a subject. Any attempt that the subject makes to act against the vampire’s implanted commands or to recover stolen memories causes intense pain. When such an attempt is made, the Storyteller rolls the character‘s **Manipulation + Intimidation** (difficulty equal to the subject’s **Stamina + Empathy**). Each success equals one turn that the victim is unable to act, as she is wracked with agony. Each application of Chain the Psyche crushes a number of resistance attempts equal to the character’s Manipulation rating, after which the effect fades.
+
 ## ••••• • Loyalty
-With this power in effect, the elder’s Dominate is so strong that other vampires find it almost impossible to break with their own commands. Despite the name, Loyalty instills no special feelings in the victim — the vampire’s commands are simply implanted far more
-deeply than normal.
+With this power in effect, the elder’s Dominate is so strong that other vampires find it almost impossible to break with their own commands. Despite the name, Loyalty instills no special feelings in the victim — the vampire’s commands are simply implanted far more deeply than normal.
 ### System: 
-Any other vampire attempting to employ Dominate on a subject who has been Dominated by a vampire with Loyalty has a +3 difficulty modifier to his rolls and must spend an additional Willpower point.
+Any other vampire attempting to employ Dominate on a subject who has been Dominated by a vampire with Loyalty has a +3 difficulty modifier to his rolls and must spend an additional Willpower point.b
+
 ## ••••• • Obedience
 While most Kindred must employ Dominate through eye contact, some powerful elders may command loyalty with the lightest brush of a hand. 
 ### System: 
 The character can employ all Dominate powers through touch instead of eye contact (although eye contact still works). Skin contact is necessary — simply touching the target’s clothing or something she is holding will not suffice. The touch does not have to be maintained for the full time it takes to issue a Dominate command, though repeated attempts to Dominate a single target require the character to touch the subject again.
+
 ## ••••• •• Mass Manipulation
 A truly skilled elder may command small crowds through the use of this power. By manipulating the strongest minds within a given group, a gathering may be directed to the vampire’s will. 
 ### System: 
 The player declares that he is using this power before rolling for the use of another Dominate power. The difficulty of the roll is that which would be required to Dominate the most resistant member of the target group — if he cannot be Dominated, no one in his immediate vicinity can. For every success past that needed to inflict the desired result on the first target, the player may choose one additional target to receive the same effect in its entirety. The vampire needs to make eye contact only with the initial target.
+
 ## ••••• •• Still the Mortal Flesh
 Despite its name, this power may be employed on vampires as well as mortals, and it has left more than one unfortunate victim writhing in agony — or unable to do even that. A vampire who has developed this power is able to override her victim’s body as easily as
 his mind in order to cut off his senses or even stop his heart. It is rumored that this power once came more easily to the Kindred, but modern medicine has made the bodies and spirits of mortals more resistant to such manipulations.
