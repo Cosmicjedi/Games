@@ -104,6 +104,8 @@ ASL
 French
 ## Build Log
 
+### Creation
+
 | where                       | how much | Category    |     | Catagories  | total spent |
 | --------------------------- | -------- | ----------- | --- | ----------- | ----------- |
 | Leadership 4                | 1        | Abilities   |     | Abilities   | 11          |
@@ -131,6 +133,18 @@ French
 | Library 4                   | 1        | backgrounds |     |             |             |
 | Unbondable                  | 5        | Merits      |     |             |             |
 
+### XP Log
+| Date      | Earned | Spent | Reason                              | Running total |  |  |  |  | Total XP Earned | 12 |
+|-----------|--------|-------|-------------------------------------|---------------|--|--|--|--|-----------------|----|
+| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Spent  | 6  |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Left   | 6  |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  |                 |    |
+| 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |  |  |  |                 |    |
+| 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |  |  |  |                 |    |
+| 8/23/2022 | 3      |       | game3                               | 4             |  |  |  |  |                 |    |
+| 8/23/2022 | 2      |       | diablerie                           | 6             |
+
+[[Damien XP Log.xlsx]]
 ## Relationships
 ### Lineage
 Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
