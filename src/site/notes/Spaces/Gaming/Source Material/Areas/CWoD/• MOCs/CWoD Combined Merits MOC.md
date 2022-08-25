@@ -31,8 +31,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser.md\|Early Riser]]                             | 1    | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Deceptive Aura.md\|Deceptive Aura]]                       | 1    | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Concentration.md\|Concentration]]                         | 1    | Mental       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Coldly Logical.md\|Coldly Logical]]                       | 1    | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Common Sense.md\|Common Sense]]                           | 1    | Mental       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Coldly Logical.md\|Coldly Logical]]                       | 1    | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Catlike Balance.md\|Catlike Balance]]                     | 1    | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Bruiser.md\|Bruiser]]                                     | 1    | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Blush of Health.md\|Blush of Health]]                     | 1    | Physical     | Vampire |
