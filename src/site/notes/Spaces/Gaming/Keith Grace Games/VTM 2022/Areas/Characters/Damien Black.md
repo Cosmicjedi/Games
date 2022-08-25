@@ -32,7 +32,7 @@ ___
 | ---------- | ------------ | --------- | --------- | ----------- | --------- |
 | Name:      | Damien Black | Nature:   | Survivor  | Clan:       | Lasombra  |
 | Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 7         |
-| Chronicle: |              | Concept:  |           | Sire:       | Magdalena |
+| Chronicle: |              | Concept:  | Damien Darhk  meets Connor Macleod        | Sire:       | Magdalena |
 
 ___
 |     | **Attributes** |     |     
