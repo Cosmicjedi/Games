@@ -46,7 +46,19 @@ A character can choose to learn an alternate power instead
 of advancing along the Discipline’s normal progression,
 and can later go back and re-purchase what
 he’s missed.
-••••• • Imprint
+
+## ••••• • Crush
+The vampire with this refined application of Potence
+knows just how to apply her deadly strength to destroying
+inanimate objects.
+System: Spend two blood points to activate Crush for
+the scene. With a successful attack against an object, your
+character automatically destroys it. In the case of weapons
+or armor on active combatants, this may mean a targeted
+attack. If you choose to destroy a victim’s weapons or armor,
+they take no damage from the attack.
+
+## ••••• • Imprint
 A vampire with extensive knowledge of Potence can
 squeeze very, very hard. As a matter of fact, she can
 squeeze (or press, or push) so hard that she can leave
@@ -66,7 +78,28 @@ If the object the vampire grasps is thin enough, at the
 Storyteller’s discretion, the vampire might simply be
 able to push through it (in the case of a wall) or tear it
 off (in the case of a spear or pipe).
-••••• •• Earthshock
+
+## Relentless Pursuit (Potence ••••• •)
+This power is an improvement on Leaps and Bounds
+(p. 49).
+System: There is no cost to use this power, which is
+always active. The Brujah doubles the number of automatic
+successes granted by Potence when applying them to jump
+rolls. A Dexterity + Athletics roll is required to make sure
+the character lands safely.
+
+## ••••• •• Brutality
+With this level of power, the Cainite’s hands move
+through flesh the way a mortal’s moves through packed
+sand.
+System: A character with Brutality causes lethal
+damage with her unarmed strikes. Her unarmed strikes
+may only be dodged, not blocked or parried, as her punches
+move weapons and shields aside effortlessly. This power
+does not require activation, and is considered “always on”
+unless the user wills it.
+
+## ••••• •• Earthshock
 According to some pundits, Potence is merely the
 art of hitting something very hard. But what do you
 do when your target is too far away to hit directly? The
@@ -89,7 +122,24 @@ the strike goes errant and is liable to explode anywhere
 within range; a botch means that the vampire pulverizes
 the ground beneath him and may well bury himself
 in the process.
-••••• ••• Flick
+
+## ••••• ••• Aftershock
+The eldest practitioners of Potence can infuse the
+power of their blood to delay the physical devastation of
+her attacks. Instead of destroying an opponent immediately,
+she stores her Potence in their body for later effect.
+System: Make an attack normally. Spend three blood
+points and do not add Potence to the damage pool. If the
+attack causes the victim one point of damage after soak,
+Aftershock takes effect. Instead of adding Potence as dice
+or automatic successes to the damage pool, Aftershock
+“stores” those automatic damage levels for later. Specify
+any time in the next 24 hours. At that time, the victim
+suffers lethal damage equal to your character’s Potence
+to the victim. A character may only have one instance
+of Aftershock “storing” damage at a time.
+
+## ••••• ••• Flick
 It is a truism that “the great ones always make it look
 easy.” In the case of Flick, that saying stops being a
 truism and becomes literal truth. With this power, a
