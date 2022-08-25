@@ -18,5 +18,6 @@ tags:: #atlas/MOC🗺
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration.md\|Obtenebration]] | 2022-8-20 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence.md\|Potence]]             | 2022-8-25 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence.md\|Presence]]           | 2022-8-19 |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Protean.md\|Protean]]             | 2022-8-25 |
 
 
