@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/source-material/areas/c-wo-d/genre/vampire/v20/disciplines/protean/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: 
+up:: [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/V20/V20 Disciplines MOC|V20 Disciplines MOC]]
 tags:: 
 dates:: 2022-08-25
 
