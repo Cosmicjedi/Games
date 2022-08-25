@@ -41,7 +41,7 @@ ___
 | Physical   |             | Social        |            |     Mental      |          |
 | ---------- | ----------- | ------------- | ---------- |---------------:| -------- |
 | Strength:  | 🔵🔵        | Charisma:     | 🔵🔵🔵     |   Perception:   | 🔵🔵🔵   |
-| Dexterity: | 🔵🔵🔵      | Manipulation: | 🔵🔵🔵🔵🔵 |  Intelligence:  | 🔵🔵     |
+| Dexterity: | 🔵🔵🔵      | Manipulation: | 🔵🔵🔵🔵🔵 |  Intelligence:  | 🔵🔵🔵    |
 | Stamina:   | 🔵🔵🔵🔵🔵  | Appearance:   | 🔵🔵🔵     |      Wits:      | 🔵🔵🔵🔵 |
 ___
 |     | **Abilities** |     |     
@@ -82,9 +82,9 @@ ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
-| Willpower | Blood Pool | Blood Per Round | Humanity |   XP  |
-| --------- | ---------- | --------------- | -------- | --- |
-| 8         | 20/20         | 5               | 5        |  6   | 
+| Willpower | Blood Pool | Blood Per Round | Humanity |
+| --------- | ---------- | --------------- | -------- |
+| 8         | 20/20      | 5               | 5        |
 ___
 | Merits                                    | Flaws                           |
 | ----------------------------------------- | ------------------------------- |
@@ -134,15 +134,19 @@ French
 | Unbondable                  | 5        | Merits      |     |             |             |
 
 ### XP Log
-| Date      | Earned | Spent | Reason                              | Running total |  |  |  |  | Total XP Earned | 12 |
+| Date      | Earned | Spent | Reason                              | Running total |  |  |  |  |                 |    |
 |-----------|--------|-------|-------------------------------------|---------------|--|--|--|--|-----------------|----|
-| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Spent  | 6  |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Left   | 6  |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  |                 |    |
+| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 16 |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Spent  | 11 |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 5  |
 | 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |  |  |  |                 |    |
 | 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |  |  |  |                 |    |
 | 8/23/2022 | 3      |       | game3                               | 4             |  |  |  |  |                 |    |
-| 8/23/2022 | 2      |       | diablerie                           | 6             |
+| 8/23/2022 | 2      |       | diablerie                           | 6             |  |  |  |  |                 |    |
+| 8/24/2022 | 4      |       | Game 4                              | 10            |  |  |  |  |                 |    |
+| 8/25/2022 |        | 5     | int 3                               | 5             |
+
+
 
 [[Damien XP Log.xlsx]]
 ## Relationships
