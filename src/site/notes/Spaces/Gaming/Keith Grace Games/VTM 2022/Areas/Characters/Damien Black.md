@@ -101,7 +101,7 @@ Scottish/Celtic
 English
 Hebrew
 ASL
-French
+Italian
 ## Build Log
 
 ### Creation
