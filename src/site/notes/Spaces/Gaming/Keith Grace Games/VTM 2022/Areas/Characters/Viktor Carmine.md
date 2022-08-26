@@ -25,7 +25,7 @@ Sire::
 
 ## Powers Seen
 [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate|Obfuscate]] 4
-
+[[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Auspex|Auspex]] 2
 
 
 
