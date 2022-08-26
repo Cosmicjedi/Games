@@ -55,7 +55,7 @@ ___
 | Brawl:        | 🔵🔵🔵🔵 | Etiquette:   |          | Investigation:        | 🔵🔵🔵   |
 | Empathy:      |          | Firearms:    |          | Law:                  |          |
 | Expression:   |          | Larceny:     |          | Medicine:             |          |
-| Intimidation: | 🔵🔵🔵🔵 | Melee:       | 🔵🔵     | Occult: Obtenebration | 🔵🔵🔵🔵 | 
+| Intimidation: | 🔵🔵🔵🔵 | Melee:       | 🔵🔵     | Occult: Obtenebration, Abyss Mysticism  | 🔵🔵🔵🔵🔵 | 
 | Leadership:   | 🔵🔵🔵🔵 | Performance: | 🔵🔵     | Politics:             |          |
 | Streetwise:   |          | Stealth:     | 🔵🔵🔵🔵 | Science:              | 🔵🔵     |
 | Subterfuge:   | 🔵🔵🔵🔵 | Survival:    | 🔵🔵🔵🔵 | Technology:           | 🔵🔵     |
@@ -73,9 +73,9 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]      | 🔵                                                                                                                                                                                                             | Resources   | 🔵🔵     |               |            |
 
 ---
-| Abyssal Rituals   |  Level   |
-| ----------------- | --- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] |  1   |
+| Abyssal Rituals                                                                                              | Level |
+| ------------------------------------------------------------------------------------------------------------ | ----- |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] | 1     |
 
 ---
 
@@ -86,13 +86,14 @@ ___
 | --------- | ---------- | --------------- | -------- |
 | 8         | 20/20      | 5               | 5        |
 ___
-| Merits                                    | Flaws                           |
-| ----------------------------------------- | ------------------------------- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)              | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)      |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Light Sleeper#Light Sleeper\|Light Sleeper]] (2pt. Merit)            | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Prey Exclusion#Prey Exclusion\|Prey Exclusion - No bums]] (1pt. Flaw)  |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eyes of Shadow#Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)           | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Narc#Narc\|Narc]] (3pt. Flaw)  |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)       |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)               |  |
+| Merits                                                                                       | Flaws                                                                   |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)                                        | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)                       |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Light Sleeper#Light Sleeper\|Light Sleeper]] (2pt. Merit)                                  | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Prey Exclusion#Prey Exclusion\|Prey Exclusion - No bums]] (1pt. Flaw) |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eyes of Shadow#Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)                               | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Narc#Narc\|Narc]] (3pt. Flaw)                                         |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                           |                                                                         |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie|Hidden Diablerie]]                                                                                             |                                                                         |
 
 ---
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
@@ -136,16 +137,19 @@ Italian
 ### XP Log
 | Date      | Earned | Spent | Reason                              | Running total |  |  |  |  |                 |    |
 |-----------|--------|-------|-------------------------------------|---------------|--|--|--|--|-----------------|----|
-| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 16 |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Spent  | 11 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 5  |
+| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 21 |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Spent  | 21 |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 0  |
 | 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |  |  |  |                 |    |
 | 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |  |  |  |                 |    |
 | 8/23/2022 | 3      |       | game3                               | 4             |  |  |  |  |                 |    |
 | 8/23/2022 | 2      |       | diablerie                           | 6             |  |  |  |  |                 |    |
 | 8/24/2022 | 4      |       | Game 4                              | 10            |  |  |  |  |                 |    |
-| 8/25/2022 |        | 5     | int 3                               | 5             |
-
+| 8/25/2022 |        | 5     | int 3                               | 5             |  |  |  |  |                 |    |
+| 8/25/2022 | 5      |       |                                     | 10            |  |  |  |  |                 |    |
+| 8/25/2022 |        | 3     | occult 5                            | 7             |  |  |  |  |                 |    |
+| 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |  |  |  |                 |    |
+| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |
 
 
 [[Damien XP Log.xlsx]]
