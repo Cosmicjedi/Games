@@ -19,7 +19,7 @@ This path las a lexicon that needs to be explained to understand it correctly:
 
 **Lying** - this is not as simple as "a false statement made with deliberate intent to deceive; an intentional untruth."  any untruth intentionally given to an ally or neutral party is a Lie. however deception of an enemy intended to keep ones plans a secret is not. example Deception to an enemy in combat or to hide ones intention of combat is not seen as a lie. however telling an enemy the sky is orange when it is blue is. 
 
-## tenants 
+## Tenants 
 Embracing the inherent honor of the Viking people is at the core of this path of morality. therefore most of its beliefs are summed up in 8 of the 9 precepts of Viking morality. the ninth was omitted because it doesn't foster good group dynamic. 
 
 
