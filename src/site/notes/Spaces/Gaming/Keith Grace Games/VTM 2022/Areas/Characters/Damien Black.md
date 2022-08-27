@@ -6,9 +6,8 @@ up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List
 tags:: #Keith/KVTM2022/Character/PC
 dates:: 2022-08-09
 Clan:: Lasombra
-Player::Joshua
+Player:: Joshua
 Type:: Vampire
-
 # Damien Black
 ## Birth Death Details
 Birth Name:: Tormod son of Leod
@@ -16,16 +15,15 @@ Born:: 1222 CE
 Father:: Leod founder of Clan Macleod
 Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)   
 Embraced:: 1242 CE  
-Generation:: 8th  
+Generation:: 7th  
 ## Description
 Height:: 200.66cm
 Weight:: 90kg
 Hair:: Long Red to mid back
 Eyes:: Green
 Skin color:: Sun Bronzed from a life of outside work. 
-Ethnicity:: Norse-Scottish mix
+Ethnicity:: Norse-Scottish mix.
 Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) tall. he is lean muscle and built for speed and stamina. Read Hair Green Eyes.
-
 ## Character Sheet
 ___
 |            |              |           |           |             |           |
@@ -80,7 +78,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | Humanity |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 20/20      | 5               | 5        |
+| 8         | 29/30      | 6               | 4        |
 ___
 | Merits                                                                                       | Flaws                                                                   |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -90,7 +88,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                           |                                                                         |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie|Hidden Diablerie]]                                                                                             |                                                                         |
-___
+
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
 Scottish/Celtic
@@ -131,9 +129,9 @@ Italian
 ### XP Log
 | Date      | Earned | Spent | Reason                              | Running total |  |  |  |  |                 |    |
 |-----------|--------|-------|-------------------------------------|---------------|--|--|--|--|-----------------|----|
-| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 25 |
+| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 30 |
 | 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Spent  | 21 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 4  |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 9  |
 | 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |  |  |  |                 |    |
 | 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |  |  |  |                 |    |
 | 8/23/2022 | 3      |       | game3                               | 4             |  |  |  |  |                 |    |
@@ -144,14 +142,16 @@ Italian
 | 8/25/2022 |        | 3     | occult 5                            | 7             |  |  |  |  |                 |    |
 | 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |  |  |  |                 |    |
 | 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |  |  |  |                 |    |
-| 8/25/2022 | 4      |       | game 5                              | 4             |
+| 8/26/2022 | 4      |       | game 5                              | 4             |  |  |  |  |                 |    |
+| 8/27/2022 | 3      |       | game 6                              | 7             |  |  |  |  |                 |    |
+| 8/27/2022 | 2      |       | diablerie                           | 9             |
 
 [[Damien XP Log.xlsx]]
 ## Relationships
 ### Lineage
 Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
 Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)
-### coterie 
+### Coterie 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
 ### NPCs
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Ghoul Retainer
@@ -159,6 +159,7 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Library Contents|Library Contents]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Plots|Plots]]
 ### Relationships 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## History and Views on The Kindred world
