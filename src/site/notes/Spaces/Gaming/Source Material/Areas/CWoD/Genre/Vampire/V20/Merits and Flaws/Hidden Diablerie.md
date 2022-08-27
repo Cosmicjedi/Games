@@ -8,5 +8,4 @@ Cost:: 3
 Venue:: Vampire  
 Category:: Supernatural
 # Hidden Diablerie
-The tell-tale black streaks of diablerie do not manifest
-in your aura.
+The tell-tale black streaks of diablerie do not manifest in your aura.
