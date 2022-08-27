@@ -23,12 +23,12 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Short.md\|Short]]                                         | 1      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Recruitment Target.md\|Recruitment Target]]               | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Prey Exclusion.md\|Prey Exclusion]]                       | 1      | Mental       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Kid.md\|New Kid]]                                     | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Nightmares.md\|Nightmares]]                               | 1      | Mental       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Kid.md\|New Kid]]                                     | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Arrival.md\|New Arrival]]                             | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Mistaken Identity.md\|Mistaken Identity]]                 | 1      | Social       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Incomplete Understanding.md\|Incomplete Understanding]]   | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Infamous Sire.md\|Infamous Sire]]                         | 1      | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Incomplete Understanding.md\|Incomplete Understanding]]   | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Impatient.md\|Impatient]]                                 | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hard of Hearing.md\|Hard of Hearing]]                     | 1      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Expendable.md\|Expendable]]                               | 1      | Social       | Vampire |
