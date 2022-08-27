@@ -33,7 +33,6 @@ ___
 | Name:      | Damien Black | Nature:   | Survivor  | Clan:       | Lasombra  |
 | Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 7         |
 | Chronicle: |              | Concept:  | Damien Darhk  meets Connor Macleod        | Sire:       | Magdalena |
-
 ___
 |     | **Attributes** |     |     
 | --- | ----------------- | --- | 
@@ -47,18 +46,18 @@ ___
 |     | **Abilities** |     |     
 | --- | ----------------- | --- | 
 ___
-| Talents       |          | Skills       |          | Knowledges            |          |
-| ------------- | -------- | ------------ | -------- | --------------------- | -------- |
-| Alertness:    | 🔵🔵     | Animal Ken:  |          | Academics:            |          |
-| Athletics:    | 🔵🔵🔵🔵 | Crafts:      | 🔵🔵     | Computer:             |          |
-| Awareness:    |          | Drive:       | 🔵🔵     | Finance:              | 🔵🔵     |
-| Brawl:        | 🔵🔵🔵🔵 | Etiquette:   |          | Investigation:        | 🔵🔵🔵   |
-| Empathy:      |          | Firearms:    |          | Law:                  |          |
-| Expression:   |          | Larceny:     |          | Medicine:             |          |
-| Intimidation: | 🔵🔵🔵🔵 | Melee:       | 🔵🔵     | Occult: Obtenebration, Abyss Mysticism  | 🔵🔵🔵🔵🔵 | 
-| Leadership:   | 🔵🔵🔵🔵 | Performance: | 🔵🔵     | Politics:             |          |
-| Streetwise:   |          | Stealth:     | 🔵🔵🔵🔵 | Science:              | 🔵🔵     |
-| Subterfuge:   | 🔵🔵🔵🔵 | Survival:    | 🔵🔵🔵🔵 | Technology:           | 🔵🔵     |
+| Talents       | Specialties | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                    | Rating     |
+| ------------- | ----------- | -------- | ------------ | ----------- | -------- | -------------- | ------------------------------ | ---------- |
+| Alertness:    |             | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                |            |
+| Athletics:    |             | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                |            |
+| Awareness:    |             |          | Drive:       |             | 🔵🔵     | Finance:       |                                | 🔵🔵       |
+| Brawl:        |             | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                | 🔵🔵🔵     |
+| Empathy:      |             |          | Firearms:    |             |          | Law:           |                                |            |
+| Expression:   |             |          | Larceny:     |             |          | Medicine:      |                                |            |
+| Intimidation: |             | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵     | Occult:        | Obtenebration, Abyss Mysticism | 🔵🔵🔵🔵🔵 |
+| Leadership:   |             | 🔵🔵🔵🔵 | Performance: |             | 🔵🔵     | Politics:      |                                |            |
+| Streetwise:   |             |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                | 🔵🔵       |
+| Subterfuge:   |             | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                | 🔵🔵       |
 ___
 |     | **Advantages** |     |     
 | --- | ----------------- | --- | 
@@ -71,14 +70,11 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]     | 🔵🔵🔵                                                                                                                                                                                                         | Retainers   | 🔵🔵🔵   |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]     | 🔵🔵                                                                                                                                                                                                           | Library     | 🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]      | 🔵                                                                                                                                                                                                             | Resources   | 🔵🔵     |               |            |
-
----
+___
 | Abyssal Rituals                                                                                              | Level |
 | ------------------------------------------------------------------------------------------------------------ | ----- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] | 1     |
-
----
-
+___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
@@ -94,8 +90,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                           |                                                                         |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie|Hidden Diablerie]]                                                                                             |                                                                         |
-
----
+___
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
 Scottish/Celtic
@@ -104,7 +99,6 @@ Hebrew
 ASL
 Italian
 ## Build Log
-
 ### Creation
 
 | where                       | how much | Category    |     | Catagories  | total spent |
@@ -137,9 +131,9 @@ Italian
 ### XP Log
 | Date      | Earned | Spent | Reason                              | Running total |  |  |  |  |                 |    |
 |-----------|--------|-------|-------------------------------------|---------------|--|--|--|--|-----------------|----|
-| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 21 |
+| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 25 |
 | 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Spent  | 21 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 0  |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 4  |
 | 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |  |  |  |                 |    |
 | 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |  |  |  |                 |    |
 | 8/23/2022 | 3      |       | game3                               | 4             |  |  |  |  |                 |    |
@@ -149,8 +143,8 @@ Italian
 | 8/25/2022 | 5      |       |                                     | 10            |  |  |  |  |                 |    |
 | 8/25/2022 |        | 3     | occult 5                            | 7             |  |  |  |  |                 |    |
 | 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |  |  |  |                 |    |
-| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |
-
+| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |  |  |  |                 |    |
+| 8/25/2022 | 4      |       | game 5                              | 4             |
 
 [[Damien XP Log.xlsx]]
 ## Relationships
@@ -164,7 +158,23 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Library Contents|Library Contents]]
 ### Relationships 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## History and Views on The Kindred world
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Black History|Damien Black History]]
+## Status
+Loyal
+Honorable
+Courageous
+Feared
+
+## Boons
+### Owed
+| Size  | Whom      |
+| ----- | --------- |
+| Major | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Alexi|Alexi]] |
+
+
+### Owned
+
