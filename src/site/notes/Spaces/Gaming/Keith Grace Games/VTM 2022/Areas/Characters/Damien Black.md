@@ -15,7 +15,7 @@ Born:: 1222 CE
 Father:: Leod founder of Clan Macleod
 Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)   
 Embraced:: 1242 CE  
-Generation:: 7th  
+Generation:: 6th  
 ## Description
 Height:: 200.66cm
 Weight:: 90kg
@@ -29,7 +29,7 @@ ___
 |            |              |           |           |             |           |
 | ---------- | ------------ | --------- | --------- | ----------- | --------- |
 | Name:      | Damien Black | Nature:   | Survivor  | Clan:       | Lasombra  |
-| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 7         |
+| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 6         |
 | Chronicle: |              | Concept:  | Damien Darhk  meets Connor Macleod        | Sire:       | Magdalena |
 ___
 |     | **Attributes** |     |     
@@ -62,7 +62,7 @@ ___
 ___
 | Disciplines       |                                                                                                                                                                                                                | Backgrounds |          | Virtues       |            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------------- | ---------- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] | Sanctum     | 🔵🔵🔵🔵 | Conscience:   | 🔵🔵🔵     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] | Sanctum     | 🔵🔵🔵🔵 | Conviction:   | 🔵🔵     |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]      | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                             | Status      | 🔵🔵🔵   | Self-Control: | 🔵🔵🔵🔵   |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence#potence\|Potence]]       | 🔵🔵🔵🔵🔵                                                                                                                                                                                                     | Herd        | 🔵🔵🔵   | Courage:      | 🔵🔵🔵🔵🔵 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]     | 🔵🔵🔵                                                                                                                                                                                                         | Retainers   | 🔵🔵🔵   |               |            |
@@ -76,9 +76,9 @@ ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
-| Willpower | Blood Pool | Blood Per Round | Humanity |
+| Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 29/30      | 6               | 4        |
+| 8         | 30/30      | 6               | 3        |
 ___
 | Merits                                                                                       | Flaws                                                                   |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -127,24 +127,27 @@ Italian
 | Unbondable                  | 5        | Merits      |     |             |             |
 
 ### XP Log
-| Date      | Earned | Spent | Reason                              | Running total |  |  |  |  |                 |    |
-|-----------|--------|-------|-------------------------------------|---------------|--|--|--|--|-----------------|----|
-| pregame   |        | 1     | ASL                                 | -1            |  |  |  |  | Total XP Earned | 30 |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  |  |  |  | Total XP Spent  | 21 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  |  |  |  | Total XP Left   | 9  |
-| 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |  |  |  |                 |    |
-| 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |  |  |  |                 |    |
-| 8/23/2022 | 3      |       | game3                               | 4             |  |  |  |  |                 |    |
-| 8/23/2022 | 2      |       | diablerie                           | 6             |  |  |  |  |                 |    |
-| 8/24/2022 | 4      |       | Game 4                              | 10            |  |  |  |  |                 |    |
-| 8/25/2022 |        | 5     | int 3                               | 5             |  |  |  |  |                 |    |
-| 8/25/2022 | 5      |       |                                     | 10            |  |  |  |  |                 |    |
-| 8/25/2022 |        | 3     | occult 5                            | 7             |  |  |  |  |                 |    |
-| 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |  |  |  |                 |    |
-| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |  |  |  |                 |    |
-| 8/26/2022 | 4      |       | game 5                              | 4             |  |  |  |  |                 |    |
-| 8/27/2022 | 3      |       | game 6                              | 7             |  |  |  |  |                 |    |
-| 8/27/2022 | 2      |       | diablerie                           | 9             |
+| Date      | Earned | Spent | Reason                              | Running total |  |                 |    |
+|-----------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
+| pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 35 |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 23 |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 12 |
+| 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |    |
+| 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |    |
+| 8/23/2022 | 3      |       | game3                               | 4             |  |                 |    |
+| 8/23/2022 | 2      |       | diablerie                           | 6             |  |                 |    |
+| 8/24/2022 | 4      |       | Game 4                              | 10            |  |                 |    |
+| 8/25/2022 |        | 5     | int 3                               | 5             |  |                 |    |
+| 8/25/2022 | 5      |       |                                     | 10            |  |                 |    |
+| 8/25/2022 |        | 3     | occult 5                            | 7             |  |                 |    |
+| 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |                 |    |
+| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |                 |    |
+| 8/26/2022 | 4      |       | game 5                              | 4             |  |                 |    |
+| 8/27/2022 | 4      |       | game 6                              | 8             |  |                 |    |
+| 8/27/2022 | 2      |       | diablerie                           | 10            |  |                 |    |
+| 8/29/2022 | 4      |       | Game 7                              | 14            |  |                 |    |
+| 8/29/2022 |        | 2     | conviction 2                        | 12            |
+
 
 [[Damien XP Log.xlsx]]
 ## Relationships
@@ -158,8 +161,8 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Library Contents|Library Contents]]
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Plots|Plots]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Library Contents|Library Contents]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Plots|Plots]]
 ### Relationships 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## History and Views on The Kindred world
