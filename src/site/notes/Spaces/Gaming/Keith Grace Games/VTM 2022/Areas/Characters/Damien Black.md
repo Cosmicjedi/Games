@@ -148,7 +148,6 @@ Italian
 | 8/29/2022 | 4      |       | Game 7                              | 14            |  |                 |    |
 | 8/29/2022 |        | 2     | conviction 2                        | 12            |
 
-
 [[Damien XP Log.xlsx]]
 ## Relationships
 ### Lineage
@@ -177,7 +176,7 @@ Feared
 ### Owed
 | Size  | Whom      |
 | ----- | --------- |
-| Major | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Alexi|Alexi]] |
+| Major | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Alexi\|Alexi]] |
 
 
 ### Owned
