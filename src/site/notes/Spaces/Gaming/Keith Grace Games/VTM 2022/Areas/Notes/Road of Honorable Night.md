@@ -54,6 +54,7 @@ Giving up is not an option
 **Hospitality**: to keep their offer of hospitality is paramount, and are very difficult to sway from their duty to it. The bearing modifier affects rolls to resist attempts to manipulate or force them to go against their offered hospitality. 
 ## Hierarchy of Sins
  <h2 style="text-align: center;">Path of Honorable night Hierarchy of Sins</h2>
+ 
 | Rating | Moral Guideline                                   | Rationale                                                                                                                                                     |
 | ------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 10     | Failing to uphold all the precepts of hospitality | without hospitality we are but monsters which can not be trusted                                                                                              |
