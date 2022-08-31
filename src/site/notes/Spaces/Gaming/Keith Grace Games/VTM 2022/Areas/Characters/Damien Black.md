@@ -57,8 +57,8 @@ ___
 | Streetwise:   |             |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                | 🔵🔵       |
 | Subterfuge:   |             | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                | 🔵🔵       |
 ___
-|     | **Advantages** |     |     
-| --- | ----------------- | --- | 
+|     |     | **Advantages** |     |     | 
+| --- | --- | -------------- | --- | --- |
 ___
 | Disciplines       |                                                                                                                                                                                                                | Backgrounds |          | Virtues       |            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------------- | ---------- |
@@ -87,7 +87,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eyes of Shadow#Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)                               | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Narc#Narc\|Narc]] (3pt. Flaw)                                         |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                           |                                                                         |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie\|Hidden Diablerie]]                                                                                             |                                                                         |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie\|Hidden Diablerie]] (3pt. Merit)                                                                                            |                                                                         |
 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
