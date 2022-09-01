@@ -31,7 +31,7 @@ Sire::
 
 ## Relationships
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]] -former rival and now ally and coterie mate
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Guinevere|Guinevere]] **deceased** - long time ally and friend, coterie mate 
+[[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Guinevere|Guinevere]] **deceased** - long time ally and friend, coterie mate 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Sean McGrath|Sean McGrath]] - former rival and now ally and coterie mate
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Iris|Iris]] Ghoul Major Domo
 
