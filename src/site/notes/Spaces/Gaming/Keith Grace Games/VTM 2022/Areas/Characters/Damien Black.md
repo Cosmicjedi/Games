@@ -11,11 +11,11 @@ Type:: Vampire
 # Damien Black
 ## Birth Death Details
 Birth Name:: Tormod son of Leod
-Born:: 1222 CE  
+Born:: 1222 CE
 Father:: Leod founder of Clan Macleod
 Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)   
-Embraced:: 1242 CE  
-Generation:: 6th  
+Embraced:: 1242 CE
+Generation:: 6th
 ## Description
 Height:: 200.66cm
 Weight:: 90kg
@@ -44,42 +44,43 @@ ___
 |     | **Abilities** |     |     
 | --- | ----------------- | --- | 
 ___
-| Talents       | Specialties | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                    | Rating     |
-| ------------- | ----------- | -------- | ------------ | ----------- | -------- | -------------- | ------------------------------ | ---------- |
-| Alertness:    |             | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                |            |
-| Athletics:    |             | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                |            |
-| Awareness:    |             |          | Drive:       |             | 🔵🔵     | Finance:       |                                | 🔵🔵       |
-| Brawl:        |             | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                | 🔵🔵🔵     |
-| Empathy:      |             |          | Firearms:    |             |          | Law:           |                                |            |
-| Expression:   |             |          | Larceny:     |             |          | Medicine:      |                                |            |
-| Intimidation: |             | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵     | Occult:        | Obtenebration, Abyss Mysticism | 🔵🔵🔵🔵🔵 |
-| Leadership:   |             | 🔵🔵🔵🔵 | Performance: |             | 🔵🔵     | Politics:      |                                |            |
-| Streetwise:   |             |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                | 🔵🔵       |
-| Subterfuge:   |             | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                | 🔵🔵       |
+| Talents       | Specialties | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                                 | Rating     |
+| ------------- | ----------- | -------- | ------------ | ----------- | -------- | -------------- | ------------------------------------------- | ---------- |
+| Alertness:    |             | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                             |            |
+| Athletics:    |             | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                             |            |
+| Awareness:    |             |          | Drive:       |             | 🔵🔵     | Finance:       |                                             | 🔵🔵       |
+| Brawl:        |             | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                             | 🔵🔵🔵     |
+| Empathy:      |             |          | Firearms:    |             |          | Law:           |                                             |            |
+| Expression:   |             |          | Larceny:     |             |          | Medicine:      |                                             |            |
+| Intimidation: |             | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵     | Occult:        | Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
+| Leadership:   |             | 🔵🔵🔵🔵 | Performance: |             | 🔵🔵     | Politics:      |                                             |            |
+| Streetwise:   |             |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                             | 🔵🔵       |
+| Subterfuge:   |             | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                             | 🔵🔵       |
 ___
 |     |     | **Advantages** |     |     | 
 | --- | --- | -------------- | --- | --- |
 ___
 | Disciplines                                    |                                                                                                                                                                                                                | Backgrounds |          | Virtues       |            |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------------- | ---------- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] | Sanctum     | 🔵🔵🔵🔵 | Conviction:   | 🔵🔵       |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|🔵]] | Sanctum     | 🔵🔵🔵🔵 | Conviction:   | 🔵🔵🔵       |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]                | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                             | Status      | 🔵🔵🔵   | Self-Control: | 🔵🔵🔵🔵   |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence#potence\|Potence]]                   | 🔵🔵🔵🔵🔵                                                                                                                                                                                                     | Herd        | 🔵🔵🔵   | Courage:      | 🔵🔵🔵🔵🔵 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]             | 🔵🔵🔵                                                                                                                                                                                                         | Retainers   | 🔵🔵🔵   |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵                                                                                                                                                                                                           | Library     | 🔵🔵🔵🔵 |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵                                                                                                                                                                                                           | Library     | 🔵🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                             | Resources   | 🔵🔵     |               |            |
-| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]]  [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Path of Levinbolt|Path of Levinbolt]]                                  | 🔵                                                                                                                                                                                                             |             |          |               |            |
+| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]]  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]                                  | 🔵                                                                                                                                                                                                             |             |          |               |            |
 ___
-| Abyssal Rituals                                                                                              | Level |
+| Rituals                                                                                                      | Level |
 | ------------------------------------------------------------------------------------------------------------ | ----- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven|Defense of the Sacred Haven]]                                                                                  | 1      |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
 | Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 29/30      | 6               | 3        |
+| 8         | 30/30      | 6               | 4        |
 ___
 | Merits                                                                                       | Flaws                                                                   |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -127,6 +128,16 @@ Italian
 | Library 4                   | 1        | backgrounds |     |             |             |
 | Unbondable                  | 5        | Merits      |     |             |             |
 
+### Maturation
+| Date      | Earned | Spent | Reason                | Running total |
+|-----------|--------|-------|-----------------------|---------------|
+| 8/31/2022 | 15     |       |                       | 0             |
+| 9/1/2022  |        | 7     | Shadow Step           |               |
+| 9/1/2022  |        | 1     | Occult Library 5      |               |
+| 9/1/2022  |        | 2     | Occult 6              |               |
+| 9/1/2022  |        | 2     | Conviction 3          |               |
+| 9/1/2022  |        | 2     | Road of Abyss 4       |               |
+| 9/1/2022  |        | 1     | specialty Blood Magic |
 ### XP Log
 | Date      | Earned | Spent | Reason                              | Running total |  |                 |    |
 |-----------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
@@ -151,8 +162,8 @@ Italian
 | 8/30/2022 | 4      |       | game 9                              | 16            |  |                 |    |
 | 8/30/2022 |        | 10    | Levinbolt 1                         | 6             |
 
-
 [[Damien XP Log.xlsx]]
+
 ## Relationships
 ### Lineage
 Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
