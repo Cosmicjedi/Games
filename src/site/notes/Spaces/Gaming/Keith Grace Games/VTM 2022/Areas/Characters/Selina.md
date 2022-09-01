@@ -8,7 +8,7 @@ dates:: 2022-07-29
 
 # Selina
 Clan:: Toreador
-Generation:: 7th? or 8th?
+Generation:: 7th
 Sire:: [[Violetta|Violetta]]
 Player:: NPC
 Type:: Vampire
@@ -17,14 +17,15 @@ Type:: Vampire
 
 
 
-
 ## Powers Seen
-Auspex
-Celerity
+Auspex 6
+Celerity 6
 
 ## Relationships
 
-## notes
+
+
+## Notes
 
 Toreador Selina; Suspected lineage:
 [[Arikel|Arikel]], [[Helena|Helena]], [[François|François]] [[Villon|Villon]] (Prince of Paris, France), [[Violetta|Violetta]], [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]. 
