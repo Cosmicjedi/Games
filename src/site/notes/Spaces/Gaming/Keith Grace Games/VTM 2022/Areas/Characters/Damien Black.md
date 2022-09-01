@@ -98,6 +98,8 @@ English
 Hebrew
 ASL
 Italian
+Latin
+Ancient Greek
 ## Build Log
 ### Creation
 
@@ -174,6 +176,8 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Ghoul Retainer
 
 ## Notes
+Mikkel from Olso Norway
+
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Library Contents|Library Contents]]
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Plots|Plots]]
