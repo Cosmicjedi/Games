@@ -13,7 +13,7 @@ tags:: #atlas/MOC🗺
 | ---------------------------------------------------------------------------------------------------------- | --------- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Animalism.md\|Animalism]]         | 2022-8-25 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Auspex.md\|Auspex]]               | 2022-8-25 |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate.md\|Dominate]]           | 2022-9-10 |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate.md\|Dominate]]           | 2022-9-13 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate.md\|Obfuscate]]         | 2022-8-25 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration.md\|Obtenebration]] | 2022-8-31 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence.md\|Potence]]             | 2022-8-25 |
