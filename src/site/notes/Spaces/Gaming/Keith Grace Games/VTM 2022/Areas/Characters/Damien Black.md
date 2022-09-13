@@ -52,7 +52,7 @@ ___
 | Brawl:        |             | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                             | 🔵🔵🔵     |
 | Empathy:      |             |          | Firearms:    |             |          | Law:           |                                             |            |
 | Expression:   |             |          | Larceny:     |             |          | Medicine:      |                                             |            |
-| Intimidation: |             | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵     | Occult:        | Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
+| Intimidation: |             | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵     | Occult:        | Thanatology, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
 | Leadership:   |             | 🔵🔵🔵🔵 | Performance: |             | 🔵🔵     | Politics:      |                                             |            |
 | Streetwise:   |             |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                             | 🔵🔵       |
 | Subterfuge:   |             | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                             | 🔵🔵       |
@@ -60,20 +60,22 @@ ___
 |     |     | **Advantages** |     |     | 
 | --- | --- | -------------- | --- | --- |
 ___
-| Disciplines                                    |                                                                                                                                                                                                                | Backgrounds |          | Virtues       |            |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------------- | ---------- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|🔵]] | Sanctum     | 🔵🔵🔵🔵 | Conviction:   | 🔵🔵🔵       |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]                | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                             | Status      | 🔵🔵🔵   | Self-Control: | 🔵🔵🔵🔵   |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence#potence\|Potence]]                   | 🔵🔵🔵🔵🔵                                                                                                                                                                                                     | Herd        | 🔵🔵🔵   | Courage:      | 🔵🔵🔵🔵🔵 |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]             | 🔵🔵🔵                                                                                                                                                                                                         | Retainers   | 🔵🔵🔵   |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵                                                                                                                                                                                                           | Library     | 🔵🔵🔵🔵🔵 |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                             | Resources   | 🔵🔵     |               |            |
-| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]]  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]                                  | 🔵                                                                                                                                                                                                             |             |          |               |            |
+| Disciplines                                    |                                                                                                                                                                                                                                                         | Backgrounds |            | Virtues       |            |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- | ------------- | ---------- |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|🔵]] | Sanctum     | 🔵🔵🔵🔵   | Conviction:   | 🔵🔵🔵     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]                | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                                                                      | Status      | 🔵🔵🔵     | Self-Control: | 🔵🔵🔵🔵   |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence#potence\|Potence]]                   | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                              | Herd        | 🔵🔵🔵     | Courage:      | 🔵🔵🔵🔵🔵 |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]             | 🔵🔵🔵                                                                                                                                                                                                                                                  | Retainers   | 🔵🔵🔵     |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵🔵                                                                                                                                                                                                                                                    | Library     | 🔵🔵🔵🔵🔵 |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                                                                      | Resources   | 🔵🔵🔵🔵       |               |            |
+| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]]  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]         | 🔵                                                                                                                                                                                                                                                      |             |            |               |            |
+| Necromancy - Corpses Decay                                               | 🔵                                                                                                                                                                                                                                                     |             |            |               |            |
 ___
 | Rituals                                                                                                      | Level |
 | ------------------------------------------------------------------------------------------------------------ | ----- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven|Defense of the Sacred Haven]]                                                                                  | 1      |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven|Defense of the Sacred Haven]]                                                                              | 1     |
+| Petition the Ancestors                                                                                                             | 1      |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
@@ -141,28 +143,35 @@ Ancient Greek
 | 9/1/2022  |        | 2     | Road of Abyss 4       |               |
 | 9/1/2022  |        | 1     | specialty Blood Magic |
 ### XP Log
-| Date      | Earned | Spent | Reason                              | Running total |  |                 |    |
-|-----------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
-| pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 39 |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 33 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 6  |
-| 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |    |
-| 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |    |
-| 8/23/2022 | 3      |       | game3                               | 4             |  |                 |    |
-| 8/23/2022 | 2      |       | diablerie                           | 6             |  |                 |    |
-| 8/24/2022 | 4      |       | Game 4                              | 10            |  |                 |    |
-| 8/25/2022 |        | 5     | int 3                               | 5             |  |                 |    |
-| 8/25/2022 | 5      |       | Game 5                              | 10            |  |                 |    |
-| 8/25/2022 |        | 3     | occult 5                            | 7             |  |                 |    |
-| 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |                 |    |
-| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |                 |    |
-| 8/26/2022 | 4      |       | game 6                              | 4             |  |                 |    |
-| 8/27/2022 | 4      |       | game 7                              | 8             |  |                 |    |
-| 8/27/2022 | 2      |       | diablerie                           | 10            |  |                 |    |
-| 8/29/2022 | 4      |       | Game 8                              | 14            |  |                 |    |
-| 8/29/2022 |        | 2     | conviction 2                        | 12            |  |                 |    |
-| 8/30/2022 | 4      |       | game 9                              | 16            |  |                 |    |
-| 8/30/2022 |        | 10    | Levinbolt 1                         | 6             |
+| Date    | Earned | Spent | Reason                              | Running total |  |                 |    |
+|---------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
+| pregame |        | 1     | ASL                                 | -1            |  | Total XP Earned | 54 |
+| 8/19/22 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 50 |
+| 8/21/22 | 4      |       | game 2                              | 6             |  | Total XP Left   | 4  |
+| 8/21/22 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |    |
+| 8/21/22 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |    |
+| 8/23/22 | 3      |       | game3                               | 4             |  |                 |    |
+| 8/23/22 | 2      |       | diablerie                           | 6             |  |                 |    |
+| 8/24/22 | 4      |       | Game 4                              | 10            |  |                 |    |
+| 8/25/22 |        | 5     | int 3                               | 5             |  |                 |    |
+| 8/25/22 | 5      |       | Game 5                              | 10            |  |                 |    |
+| 8/25/22 |        | 3     | occult 5                            | 7             |  |                 |    |
+| 8/25/22 |        | 2     | Abyss Mysticism                     | 5             |  |                 |    |
+| 8/25/22 |        | 5     | Hidden Diablerie                    | 0             |  |                 |    |
+| 8/26/22 | 4      |       | game 6                              | 4             |  |                 |    |
+| 8/27/22 | 4      |       | game 7                              | 8             |  |                 |    |
+| 8/27/22 | 2      |       | diablerie                           | 10            |  |                 |    |
+| 8/29/22 | 4      |       | Game 8                              | 14            |  |                 |    |
+| 8/29/22 |        | 2     | conviction 2                        | 12            |  |                 |    |
+| 8/30/22 | 4      |       | game 9                              | 16            |  |                 |    |
+| 8/30/22 |        | 10    | Levinbolt 1                         | 6             |  |                 |    |
+| 8/30/22 | 5      |       | game 10                             | 11            |  |                 |    |
+| 9/1/22  | 3      |       | game 11                             | 14            |  |                 |    |
+|         | 3      |       | downtime                            | 17            |  |                 |    |
+|         | 4      |       | downtime                            | 21            |  |                 |    |
+| 9/9/22  |        | 7     | fort 3                              | 14            |  |                 |    |
+| 9/9/22  |        | 10    | Corpse Decay 1                      | 4             |  |                 |    |
+|         |        |       |                                     | 4             |
 
 [[Damien XP Log.xlsx]]
 
@@ -189,6 +198,7 @@ Mikkel from Olso Norway
 Loyal
 Honorable
 Courageous
+Trustworthy 
 Feared
 
 ## Boons
