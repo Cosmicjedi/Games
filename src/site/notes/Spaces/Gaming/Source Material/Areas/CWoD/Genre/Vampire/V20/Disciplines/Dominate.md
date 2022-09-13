@@ -30,8 +30,7 @@ If a vampire tries to Mesmerize a subject before the target fulfills a previousl
 ## ••• The Forgetful Mind
 After capturing the subject’s gaze, the vampire delves into the subject’s memories, stealing or re-creating them at his whim. The Forgetful Mind does not allow for telepathic contact; the Kindred operates much like a hypnotist, asking directed questions and drawing out answers from the subject. The degree of memory alteration depends on what the vampire desires. He may alter the subject’s mind only slightly (quite effective for eliminating memories of the victim meeting or even being fed upon by the vampire) or utterly undo the victim’s memories of her past. The degree of detail used has a direct bearing on how strongly the new memories take hold, since the victim’s subconscious mind resists the alteration. A simplistic or incomplete false memory (“You went to the movies last night”) crumbles much more quickly than does one with more attention to detail (“You thought about texting your girlfriend while you were in line at the new movie theater, but you knew you’d have to turn your phone off once you got inside. You liked the movie well enough, but the plot seemed weak. You were tired after it ended, so you went home, watched a little late-night television, and went to bed.”). Even in its simplest applications, The Forgetful Mind requires tremendous skill and finesse. It’s a relatively simple matter to rifle through a victim’s psyche and rip out the memories of the previous night without knowing what the subject did that evening. Doing so leaves a gap in the victim’s mind, however — a hole that can give rise to further problems down the road. The Kindred may describe new memories, but these recollections seldom have the same degree of realism that the subject’s original thoughts held. As such, this power isn’t always completely effective. The victim may remember being bitten, but believe it to be an animal attack. Greater memories may return in pieces as dreams, or through sensory triggers like a familiar odor or spoken phrase. Even so, months or years may pass before the subject regains enough of her lost memories to make sense of the fragments. A vampire can also sense when a subject’s memories were altered through use of this power, and even restore them, as a hypnotist draws forth suppressed thoughts. 
 ### System
-The player states what sorts of alteration he wants to perform, then rolls **Wits + Subterfuge** (*difficulty equal to the target’s current Willpower points*). Any success pacifies the victim for the amount of time it takes the vampire to perform the verbal alteration, provided the vampire does not act aggressively toward her. The table below indicates the degree of modification possible to the subject’s memory. If the successes rolled don’t allow for the extent of change the character
-desired, the Storyteller reduces the resulting impact on the victim’s mind. 
+The player states what sorts of alteration he wants to perform, then rolls **Wits + Subterfuge** (*difficulty equal to the target’s current Willpower points*). Any success pacifies the victim for the amount of time it takes the vampire to perform the verbal alteration, provided the vampire does not act aggressively toward her. The table below indicates the degree of modification possible to the subject’s memory. If the successes rolled don’t allow for the extent of change the character desired, the Storyteller reduces the resulting impact on the victim’s mind. 
 #### Successes Result: 
 * 1 success May remove a single memory; lasts one day.
 * 2 successes May remove, but not alter, memory permanently.
@@ -55,8 +54,7 @@ The vampire must completely strip away the target’s Willpower prior to possess
 * 4 successes Can also use Dementation, Dominate, and other powers of mental manipulation
 * 5 successes Can also use Chimerstry, Necromancy, Thaumaturgy, and other mystical powers
 
-The character may travel as far from his body as he is physically able while possessing the mortal. The vampire may also venture out during the day in the mortal form. However, the vampire’s own body must be awake to do so, requiring a successful roll to [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Awakening - Remain awake|Awakening - Remain awake]]. ***If the vampire leaves the mortal shell (by choice, if his body falls asleep, through supernatural expulsion, after sustaining significant injury, etc.), his consciousness returns to his physical form in an instant***. Once freed from possession, the mortal regains mental control of herself. This can happen in an instant, or the victim may lie comatose for days while her psyche copes with the violation. The vampire experiences everything the mortal body feels during possession, from pleasure to pain. In fact, any damage the victim’s body sustains is also applied to the character’s body (though the Kindred may soak as normal). If the mortal dies before the vampire’s soul can flee from the body, the character’s body falls into torpor. Presumably this is in sympathetic response to the massive trauma of death, though some Kindred believe that the vampire’s soul is cast adrift during this time and must find its way back to the body. The Kindred can remain in the mortal’s body even if his own torpid form is destroyed, though such a pathetic
-creature is not likely to exist for long. At each sunrise, the vampire must roll Courage (difficulty 8) or be expelled from the body. If forced from the mortal body, the vampire tumbles into the astral plane, his soul permanently lost in the spirit world. A vampire trapped in a mortal body may not be “re-Embraced.” If the Embrace occurs to such a creature, he simply meets Final Death.
+The character may travel as far from his body as he is physically able while possessing the mortal. The vampire may also venture out during the day in the mortal form. However, the vampire’s own body must be awake to do so, requiring a successful roll to [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Awakening - Remain awake|Awakening - Remain awake]]. ***If the vampire leaves the mortal shell (by choice, if his body falls asleep, through supernatural expulsion, after sustaining significant injury, etc.), his consciousness returns to his physical form in an instant***. Once freed from possession, the mortal regains mental control of herself. This can happen in an instant, or the victim may lie comatose for days while her psyche copes with the violation. The vampire experiences everything the mortal body feels during possession, from pleasure to pain. In fact, any damage the victim’s body sustains is also applied to the character’s body (though the Kindred may soak as normal). If the mortal dies before the vampire’s soul can flee from the body, the character’s body falls into torpor. Presumably this is in sympathetic response to the massive trauma of death, though some Kindred believe that the vampire’s soul is cast adrift during this time and must find its way back to the body. The Kindred can remain in the mortal’s body even if his own torpid form is destroyed, though such a pathetic creature is not likely to exist for long. At each sunrise, the vampire must roll Courage (difficulty 8) or be expelled from the body. If forced from the mortal body, the vampire tumbles into the astral plane, his soul permanently lost in the spirit world. A vampire trapped in a mortal body may not be “re-Embraced.” If the Embrace occurs to such a creature, he simply meets Final Death.
 
 ## ••••• • Chain the Psyche
 Not content with merely commanding their subjects, some elders apply this power to ensure obedience from recalcitrant victims. Chain the Psyche is a Dominate technique that inflicts incapacitating pain on a target who attempts to break the vampire’s commands.
@@ -67,7 +65,7 @@ The player spends a blood point when her character applies Dominate to a subject
 ## ••••• • Loyalty
 With this power in effect, the elder’s Dominate is so strong that other vampires find it almost impossible to break with their own commands. Despite the name, Loyalty instills no special feelings in the victim — the vampire’s commands are simply implanted far more deeply than normal.
 ### System: 
-Any other vampire attempting to employ Dominate on a subject who has been Dominated by a vampire with Loyalty has a +3 difficulty modifier to his rolls and must spend an additional Willpower point.b
+Any other vampire attempting to employ Dominate on a subject who has been Dominated by a vampire with Loyalty has a +3 difficulty modifier to his rolls and must spend an additional Willpower point.
 
 ## ••••• • Obedience
 While most Kindred must employ Dominate through eye contact, some powerful elders may command loyalty with the lightest brush of a hand. 
@@ -80,63 +78,16 @@ A truly skilled elder may command small crowds through the use of this power. By
 The player declares that he is using this power before rolling for the use of another Dominate power. The difficulty of the roll is that which would be required to Dominate the most resistant member of the target group — if he cannot be Dominated, no one in his immediate vicinity can. For every success past that needed to inflict the desired result on the first target, the player may choose one additional target to receive the same effect in its entirety. The vampire needs to make eye contact only with the initial target.
 
 ## ••••• •• Still the Mortal Flesh
-Despite its name, this power may be employed on vampires as well as mortals, and it has left more than one unfortunate victim writhing in agony — or unable to do even that. A vampire who has developed this power is able to override her victim’s body as easily as
-his mind in order to cut off his senses or even stop his heart. It is rumored that this power once came more easily to the Kindred, but modern medicine has made the bodies and spirits of mortals more resistant to such manipulations.
+Despite its name, this power may be employed on vampires as well as mortals, and it has left more than one unfortunate victim writhing in agony — or unable to do even that. A vampire who has developed this power is able to override her victim’s body as easily as his mind in order to cut off his senses or even stop his heart. It is rumored that this power once came more easily to the Kindred, but modern medicine has made the bodies and spirits of mortals more resistant to such manipulations.
 ### System: 
-The player rolls Manipulation + Medicine (difficulty equal to the target’s current Willpower
-points + 2; a difficulty over 10 means that this power cannot affect the target at all). The effect lasts for one turn per success. The player must choose what function of the target’s body is being cut off before rolling. She may affect any of the body’s involuntary functions; breathing, circulation, perspiration, sight, and hearing are all viable targets. While Still the Mortal Flesh is in effect, a vampire can either stop any one of those functions
-entirely or cause them to fluctuate erratically. The exact effects of any given bodily function being shut off are left to the Storyteller. Most mortals panic if suddenly struck blind, but only the shutdown of the heart will kill a target on the spot. Vampires are unaffected by loss of heartbeat or breathing, but may be rendered deaf and blind as easily as mortals.
-••••• ••• Far Mastery
-This refinement of Obedience (though the character
-need not have learned Obedience first) allows the use
-of Dominate on any subject that the vampire is familiar
-with, at any time, over any distance. If the elder knows
-where his target is, he may issue commands as if he
-were standing face- to-face with his intended victim.
-System: The player spends a Willpower point and
-rolls Perception + Empathy (difficulty equal to the subject’s
-Wits + Stealth) to establish contact. If this roll
-succeeds, Dominate may be used as if the character had
-established eye contact with the target. A second Willpower
-point must be spent in order for a vampire to use
-this power on another vampire or other supernatural
-being.
-••••• •••• Speak Through the Blood
-The power structures of Methuselahs extend across
-continents and centuries. This power allows such ancients
-to wield control over their descendants, even
-those far outside their geographic spheres of influence.
-Speak Through the Blood allows an elder to issue commands
-to every vampire whose lineage can be traced
-to her — even if the two have never met. Thus, entire
-broods act to further the goals of sleeping ancients
-whose existences they may be completely unaware of.
-The vampires affected by this power rarely act directly
-to pursue the command they were given, but over a
-decade or so, their priorities slowly shift until the fulfillment
-of the Methuselah‘s command is among their
-long-term goals. Speak Through the Blood, because it
-takes effect so slowly, is rarely recognized as an outside
-influence, and its victims rationalize their behavior as
-“growing and changing,” or something to that effect.
-System: The player spends a permanent Willpower
-point and rolls Manipulation + Leadership. The difficulty
-of this roll is equal to four plus the number of
-Generations to which the command is to be passed.
-Unless the character is aware of the location and present
-agenda of every descendant of his — a highly unlikely
-event — he may only issue general commands,
-such as “work for the greater glory of Clan Malkavian”
-or “destroy all those who seek to extinguish the light
-of knowledge.” Speak Through the Blood can be used
-by a vampire in torpor. Commands issued through this
-power last for one decade per success on the roll. Difficulties
-over 10 require one additional success for each
-point past 10, making it that much more difficult to
-issue long-lasting commands stretching down to the
-ends of one’s lineage.
-A vampire who has reached Golconda is not affected
-by this power, and is completely unaware that it has
-been used. Her childer, however, are affected normally
-unless they are also enlightened. Ghouls of the victims
-of this power are also affected, but to a lesser extent.
+The player rolls Manipulation + Medicine (difficulty equal to the target’s current Willpower points + 2; a difficulty over 10 means that this power cannot affect the target at all). The effect lasts for one turn per success. The player must choose what function of the target’s body is being cut off before rolling. She may affect any of the body’s involuntary functions; breathing, circulation, perspiration, sight, and hearing are all viable targets. While Still the Mortal Flesh is in effect, a vampire can either stop any one of those functions entirely or cause them to fluctuate erratically. The exact effects of any given bodily function being shut off are left to the Storyteller. Most mortals panic if suddenly struck blind, but only the shutdown of the heart will kill a target on the spot. Vampires are unaffected by loss of heartbeat or breathing, but may be rendered deaf and blind as easily as mortals.
+
+## ••••• ••• Far Mastery
+This refinement of Obedience (though the character need not have learned Obedience first) allows the use of Dominate on any subject that the vampire is familiar with, at any time, over any distance. If the elder knows where his target is, he may issue commands as if he were standing face- to-face with his intended victim.
+### System: 
+The player spends a Willpower point and rolls Perception + Empathy (difficulty equal to the subject’s Wits + Stealth) to establish contact. If this roll succeeds, Dominate may be used as if the character had established eye contact with the target. A second Willpower point must be spent in order for a vampire to use this power on another vampire or other supernatural being.
+## ••••• •••• Speak Through the Blood
+The power structures of Methuselahs extend across continents and centuries. This power allows such ancients to wield control over their descendants, even those far outside their geographic spheres of influence. Speak Through the Blood allows an elder to issue commands to every vampire whose lineage can be traced to her — even if the two have never met. Thus, entire broods act to further the goals of sleeping ancients whose existences they may be completely unaware of. The vampires affected by this power rarely act directly to pursue the command they were given, but over a decade or so, their priorities slowly shift until the fulfillment of the Methuselah‘s command is among their long-term goals. Speak Through the Blood, because it takes effect so slowly, is rarely recognized as an outside influence, and its victims rationalize their behavior as “growing and changing,” or something to that effect.
+### System: 
+The player spends a permanent Willpower point and rolls Manipulation + Leadership. The difficulty of this roll is equal to four plus the number of Generations to which the command is to be passed. Unless the character is aware of the location and present agenda of every descendant of his — a highly unlikely event — he may only issue general commands, such as “work for the greater glory of Clan Malkavian” or “destroy all those who seek to extinguish the light of knowledge.” Speak Through the Blood can be used by a vampire in torpor. Commands issued through this power last for one decade per success on the roll. Difficulties over 10 require one additional success for each point past 10, making it that much more difficult to
+issue long-lasting commands stretching down to the ends of one’s lineage. A vampire who has reached Golconda is not affected by this power, and is completely unaware that it has been used. Her childer, however, are affected normally unless they are also enlightened. Ghouls of the victims of this power are also affected, but to a lesser extent.
