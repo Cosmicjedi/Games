@@ -63,13 +63,18 @@ ___
 | Disciplines                                    |                                                                                                                                                                                                                                                         | Backgrounds |            | Virtues       |            |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- | ------------- | ---------- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]] [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|🔵]] | Sanctum     | 🔵🔵🔵🔵   | Conviction:   | 🔵🔵🔵     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]                | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                                                                      | Status      | 🔵🔵🔵     | Self-Control: | 🔵🔵🔵🔵   |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]                | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                                                                      | Status      | 🔵🔵🔵🔵     | Self-Control: | 🔵🔵🔵🔵   |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence#potence\|Potence]]                   | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                              | Herd        | 🔵🔵🔵     | Courage:      | 🔵🔵🔵🔵🔵 |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]             | 🔵🔵🔵                                                                                                                                                                                                                                                  | Retainers   | 🔵🔵🔵     |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵🔵                                                                                                                                                                                                                                                    | Library     | 🔵🔵🔵🔵🔵 |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵🔵                                                                                                                                                                                                                                                    | Library  - Blood Magic   | 🔵🔵🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                                                                      | Resources   | 🔵🔵🔵🔵       |               |            |
 | [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]         | 🔵                                                                                                                                                                                                                                                      |             |            |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]] - [[Corpses Decay|Corpses Decay]]                                               | 🔵                                                                                                                                                                                                                                                     |             |            |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]] - [[Grave's Decay|Grave's Decay]]                                               | 🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
+___
+| Combo Disciplines                  | Elder Powers    |
+| ---------------------------------- | --- |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Eminence of Shade Conquering Blood|Eminence of Shade Conquering Blood]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|Shadow Step]]   |
+|                                    | [[Shadow Mark|Shadow Mark]]    |
 ___
 | Rituals                                                                                                                       | Level |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -86,7 +91,7 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 30/30      | 6               | 4        |
+| 8         | 21/30      | 6               | 4        |
 ___
 | Merits                                                                                                                          | Flaws                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -195,6 +200,9 @@ Mikkel from Olso Norway
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damien Game Notes|Damien Game Notes]]
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Library Contents|Library Contents]]
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Plots|Plots]]
+
+materials for casting 5 level 5 or 6 rituals
+
 ### Relationships 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 ## History and Views on The Kindred world
@@ -214,4 +222,6 @@ Feared
 
 
 ### Owned
+
+
 
