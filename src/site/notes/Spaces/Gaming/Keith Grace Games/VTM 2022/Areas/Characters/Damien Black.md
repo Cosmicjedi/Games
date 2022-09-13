@@ -77,7 +77,9 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]] | 1     |
 | [[Petition the Ancestors|Petition the Ancestors]]                                                                                                    | 1     |
 | [[Resume the Mortal Coil|Resume the Mortal Coil]]                                                                                                    | 5     |
-| [[Communicate with Kindred Sire |Communicate with Kindred Sire ]]                                                                                                                             |  1     |
+| [[Communicate with Kindred Sire |Communicate with Kindred Sire ]]                                                                                            | 1     |
+| [[Circle of Spirit ward|Circle of Spirit ward]]                                                                                                               | 5     |
+| the Scribe*                                                                                                                              |       |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
