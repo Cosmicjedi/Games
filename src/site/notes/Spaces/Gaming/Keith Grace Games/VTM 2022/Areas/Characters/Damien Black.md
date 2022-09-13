@@ -74,7 +74,7 @@ ___
 | Rituals                                                                                                      | Level |
 | ------------------------------------------------------------------------------------------------------------ | ----- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]] | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven|Defense of the Sacred Haven]]                                                                              | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]]                                                                              | 1     |
 | Petition the Ancestors                                                                                                             | 1      |
 ___
 |     | **Other Traits** |     |     
