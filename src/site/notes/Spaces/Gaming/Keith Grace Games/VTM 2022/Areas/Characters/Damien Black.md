@@ -250,5 +250,5 @@ Trustworthy
 
 ## Goals
 
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Goals|Goals]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damiens Goals|Damiens Goals]]
 
