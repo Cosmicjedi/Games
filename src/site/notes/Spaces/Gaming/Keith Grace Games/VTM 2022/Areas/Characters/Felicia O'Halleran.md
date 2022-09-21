@@ -8,7 +8,7 @@ dates:: 2022-08-21
 
 
 # Felicia O'Halleran
-Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Harbingers of the Abyss|Harbingers of the Abyss]]
+Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Harbingers of the Abyss\|Harbingers of the Abyss]]
 Type:: Vampire
 Player:: NPC
 Generation::7th
