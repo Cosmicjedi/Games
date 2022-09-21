@@ -9,6 +9,7 @@ dates:: 2022-08-21
 Clan:: Ravnos
 Type:: Vampire
 Player:: NPC
+Generation:: 6th
 ## Description
 
 
