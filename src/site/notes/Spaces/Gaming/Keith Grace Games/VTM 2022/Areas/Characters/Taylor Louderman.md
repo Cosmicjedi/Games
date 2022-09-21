@@ -4,12 +4,12 @@
 
 
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
-tags:: #Keith/KVTM2022/Character/NPC 
+tags:: #Keith\KVTM2022\Character\NPC 
 dates:: 2022-08-21
 
 
 # Taylor Louderman
-Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Children|Shadow Children]]
+Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Children \|Shadow Children]]
 Type:: Vampire
 Player:: NPC
 Generation::7th
