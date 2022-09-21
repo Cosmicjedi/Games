@@ -69,11 +69,11 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵🔵                                                                                                                                                                                                                                                    | Library  - Blood Magic   | 🔵🔵🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                                                                      | Resources   | 🔵🔵🔵🔵       |               |            |
 | [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]         | 🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]] - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Grave's Decay|Grave's Decay]]                                               | 🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Grave's Decay|Grave's Decay]]                                               | 🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
 ___
 | Combo Disciplines                  | Elder Powers    |
 | ---------------------------------- | --- |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Eminence of Shade Conquering Blood|Eminence of Shade Conquering Blood]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|Shadow Step]]   |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Eminence of Shade Conquering Blood|Eminence of Shade Conquering Blood]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|Shadow Step]]   |
 |                                    | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Mark|Shadow Mark]]    |
 ___
 | Rituals                                                                                                                       | Level |
@@ -163,8 +163,8 @@ Shadow speech
 | Date      | Earned | Spent | Reason                              | Running total |  |                 |    |
 |-----------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
 | pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 71 |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 70 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 1  |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 69 |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 2  |
 | 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |    |
 | 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |    |
 | 8/23/2022 | 3      |       | game3                               | 4             |  |                 |    |
@@ -195,7 +195,8 @@ Shadow speech
 | 9/17/2022 | 4      |       | game                                | 8             |  |                 |    |
 | 9/17/2022 |        | 8     | necro 3 at discount                 | 0             |  |                 |    |
 | 9/20/2022 | 4      |       | game                                | 4             |  |                 |    |
-| 9/20/2022 |        | 3     | empathy 1                           | 1             |
+| 9/20/2022 |        | 2     | empathy 1                           | 2             |
+
 
 
 [[Damien XP Log.xlsx]]
@@ -211,8 +212,11 @@ Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdal
 
 ### NPCs
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Childer - Obtenebration, Dominate, Thaumaturgy
-[[Taylor Louderman|Taylor Louderman]] - Childer - Dominate, Presence, Fortitude
-[[Felicia O'Halleran|Felicia O'Halleran]] - Childer - Obtenebration, Dominate, Necromancy
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Taylor Louderman|Taylor Louderman]] - Childer - Dominate, Presence, Fortitude
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Felicia O'Halleran|Felicia O'Halleran]] - Childer - Obtenebration, Dominate, Necromancy
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Daniella|Daniella]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Hernando|Hernando]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Arturo|Arturo]]
 
 ## Notes
 Mikkel from Olso Norway
@@ -233,7 +237,6 @@ Honorable
 Courageous
 Trustworthy 
 
-
 ## Boons
 ### Owed
 | Size  | Whom      |
@@ -244,4 +247,8 @@ Trustworthy
 ### Owned
 
 
+
+## Goals
+
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Goals|Goals]]
 
