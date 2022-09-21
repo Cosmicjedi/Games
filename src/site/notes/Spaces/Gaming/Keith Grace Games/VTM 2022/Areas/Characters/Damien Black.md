@@ -3,8 +3,8 @@
 ---
 
 up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|Character List]]
-tags:: #Keith/KVTM2022/Character/PC
-dates:: 2022-08-09
+Tags:: #Keith/KVTM2022/Character/PC
+Dates:: 2022-08-09
 Clan:: Lasombra
 Player:: Joshua
 Type:: Vampire
@@ -50,7 +50,7 @@ ___
 | Athletics:    |             | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                             |            |
 | Awareness:    |             |          | Drive:       |             | 🔵🔵     | Finance:       |                                             | 🔵🔵       |
 | Brawl:        |             | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                             | 🔵🔵🔵     |
-| Empathy:      |             |          | Firearms:    |             |          | Law:           |                                             |            |
+| Empathy:      |             | 🔵         | Firearms:    |             |          | Law:           |                                             |            |
 | Expression:   |             |          | Larceny:     |             |          | Medicine:      |                                             |            |
 | Intimidation: |             | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵     | Occult:        | Thanatology, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
 | Leadership:   |             | 🔵🔵🔵🔵 | Performance: |             | 🔵🔵     | Politics:      |                                             |            |
@@ -68,8 +68,8 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]             | 🔵🔵🔵                                                                                                                                                                                                                                                  | Retainers   | 🔵🔵🔵     |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵🔵                                                                                                                                                                                                                                                    | Library  - Blood Magic   | 🔵🔵🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                                                                      | Resources   | 🔵🔵🔵🔵       |               |            |
-| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]         | 🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]] - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Grave's Decay|Grave's Decay]]                                               | 🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
+| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt|Path of Levinbolt]]         | 🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]] - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Grave's Decay|Grave's Decay]]                                               | 🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
 ___
 | Combo Disciplines                  | Elder Powers    |
 | ---------------------------------- | --- |
@@ -84,17 +84,19 @@ ___
 | [[Resume the Mortal Coil|Resume the Mortal Coil]]                                                                                                    | 5     |
 | [[Communicate with Kindred Sire |Communicate with Kindred Sire ]]                                                                                            | 1     |
 | [[Circle of Spirit ward|Circle of Spirit ward]]                                                                                                     | 5     |
-| [[The Scribe|The Scribe]]*                                                                                                                   |       |
+| [[The Scribe|The Scribe]]*                                                                                                               |       |
 | [[Blood Walk|Blood Walk]]                                                                                                                | 2     |
 | [[Ritual of the Smoking Mirror|Ritual of the Smoking Mirror]]                                                                                              | 1     |
-| [[Principal Focus of Vitae Infusion|Principal Focus of Vitae Infusion]]                                                                                                                              |   1    |
+| [[Principal Focus of Vitae Infusion|Principal Focus of Vitae Infusion]]                                                                                         | 1     |
+| [[Pavis of Foul Presence|Pavis of Foul Presence]]                                                                                                    | 3     |
+| [[Ritual of The Unearthed Fetter|Ritual of The Unearthed Fetter]]                                                                                              | 3      |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
 | Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 20/30      | 6               | 4        |
+| 8         | 26/30      | 6               | 4        |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -158,35 +160,43 @@ Shadow speech
 | 9/1/2022  |        | 2     | Road of Abyss 4       |               |
 | 9/1/2022  |        | 1     | specialty Blood Magic |
 ### XP Log
-| Date    | Earned | Spent | Reason                              | Running total |  |                 |    |
-|---------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
-| pregame |        | 1     | ASL                                 | -1            |  | Total XP Earned | 54 |
-| 8/19/22 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 50 |
-| 8/21/22 | 4      |       | game 2                              | 6             |  | Total XP Left   | 4  |
-| 8/21/22 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |    |
-| 8/21/22 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |    |
-| 8/23/22 | 3      |       | game3                               | 4             |  |                 |    |
-| 8/23/22 | 2      |       | diablerie                           | 6             |  |                 |    |
-| 8/24/22 | 4      |       | Game 4                              | 10            |  |                 |    |
-| 8/25/22 |        | 5     | int 3                               | 5             |  |                 |    |
-| 8/25/22 | 5      |       | Game 5                              | 10            |  |                 |    |
-| 8/25/22 |        | 3     | occult 5                            | 7             |  |                 |    |
-| 8/25/22 |        | 2     | Abyss Mysticism                     | 5             |  |                 |    |
-| 8/25/22 |        | 5     | Hidden Diablerie                    | 0             |  |                 |    |
-| 8/26/22 | 4      |       | game 6                              | 4             |  |                 |    |
-| 8/27/22 | 4      |       | game 7                              | 8             |  |                 |    |
-| 8/27/22 | 2      |       | diablerie                           | 10            |  |                 |    |
-| 8/29/22 | 4      |       | Game 8                              | 14            |  |                 |    |
-| 8/29/22 |        | 2     | conviction 2                        | 12            |  |                 |    |
-| 8/30/22 | 4      |       | game 9                              | 16            |  |                 |    |
-| 8/30/22 |        | 10    | Levinbolt 1                         | 6             |  |                 |    |
-| 8/30/22 | 5      |       | game 10                             | 11            |  |                 |    |
-| 9/1/22  | 3      |       | game 11                             | 14            |  |                 |    |
-|         | 3      |       | downtime                            | 17            |  |                 |    |
-|         | 4      |       | downtime                            | 21            |  |                 |    |
-| 9/9/22  |        | 7     | fort 3                              | 14            |  |                 |    |
-| 9/9/22  |        | 10    | Corpse Decay 1                      | 4             |  |                 |    |
-|         |        |       |                                     | 4             |
+| Date      | Earned | Spent | Reason                              | Running total |  |                 |    |
+|-----------|--------|-------|-------------------------------------|---------------|--|-----------------|----|
+| pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 71 |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 70 |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 1  |
+| 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |    |
+| 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |    |
+| 8/23/2022 | 3      |       | game3                               | 4             |  |                 |    |
+| 8/23/2022 | 2      |       | diablerie                           | 6             |  |                 |    |
+| 8/24/2022 | 4      |       | Game 4                              | 10            |  |                 |    |
+| 8/25/2022 |        | 5     | int 3                               | 5             |  |                 |    |
+| 8/25/2022 | 5      |       | Game 5                              | 10            |  |                 |    |
+| 8/25/2022 |        | 3     | occult 5                            | 7             |  |                 |    |
+| 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |                 |    |
+| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |                 |    |
+| 8/26/2022 | 4      |       | game 6                              | 4             |  |                 |    |
+| 8/27/2022 | 4      |       | game 7                              | 8             |  |                 |    |
+| 8/27/2022 | 2      |       | diablerie                           | 10            |  |                 |    |
+| 8/29/2022 | 4      |       | Game 8                              | 14            |  |                 |    |
+| 8/29/2022 |        | 2     | conviction 2                        | 12            |  |                 |    |
+| 8/30/2022 | 4      |       | game 9                              | 16            |  |                 |    |
+| 8/30/2022 |        | 10    | Levinbolt 1                         | 6             |  |                 |    |
+| 8/30/2022 | 5      |       | game 10                             | 11            |  |                 |    |
+| 9/1/2022  | 3      |       | game 11                             | 14            |  |                 |    |
+| 9/9/2022  | 3      |       | downtime                            | 17            |  |                 |    |
+| 9/9/2022  | 4      |       | downtime                            | 21            |  |                 |    |
+| 9/9/2022  |        | 7     | fort 3                              | 14            |  |                 |    |
+| 9/9/2022  |        | 10    | Corpse Decay 1                      | 4             |  |                 |    |
+| 9/13/2022 | 5      |       | random award                        | 9             |  |                 |    |
+| 9/13/2022 |        | 2     | Library 6                           | 7             |  |                 |    |
+| 9/13/2022 |        | 7     | Necromancy 2                        | 0             |  |                 |    |
+| 9/15/2022 | 4      |       | game                                | 4             |  |                 |    |
+| 9/17/2022 | 4      |       | game                                | 8             |  |                 |    |
+| 9/17/2022 |        | 8     | necro 3 at discount                 | 0             |  |                 |    |
+| 9/20/2022 | 4      |       | game                                | 4             |  |                 |    |
+| 9/20/2022 |        | 3     | empathy 1                           | 1             |
+
 
 [[Damien XP Log.xlsx]]
 
@@ -196,8 +206,13 @@ Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
 Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)
 ### Coterie 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Elisabetta Ranaldi|Elisabetta Ranaldi]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
+
 ### NPCs
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Ghoul Retainer
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene|Annabelle Greene]] - Childer - Obtenebration, Dominate, Thaumaturgy
+[[Taylor Louderman|Taylor Louderman]] - Childer - Dominate, Presence, Fortitude
+[[Felicia O'Halleran|Felicia O'Halleran]] - Childer - Obtenebration, Dominate, Necromancy
 
 ## Notes
 Mikkel from Olso Norway
@@ -217,6 +232,7 @@ Loyal
 Honorable
 Courageous
 Trustworthy 
+
 
 ## Boons
 ### Owed
