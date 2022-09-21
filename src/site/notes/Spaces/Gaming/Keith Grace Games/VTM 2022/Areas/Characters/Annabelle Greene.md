@@ -11,9 +11,11 @@ dates:: 2022-08-19
 Birth Name:: Annabelle Greene
 Born:: Oct 31 1949
 Date of Ghouling:: April 4 1967
+Date of Embrace Sept 2022
 Nature:: Rebel
 Demeanor:: Competitor
-Type:: Ghoul
+Type:: Vampire
+Bloodline:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Mystics of the Abyss|Mystics of the Abyss]] 
 Player:: NPC
 ## Backgrounds
 Contacts
@@ -26,6 +28,7 @@ Int specialty subject authority
 occult specialty kindred lore
 Custodian 4
 Veil of blood: 4
+scholor of others
 ## Powers
 Obtenebration 3
 Dominate 3
