@@ -15,7 +15,7 @@ Date of Embrace Sept 2022
 Nature:: Rebel
 Demeanor:: Competitor
 Type:: Vampire
-Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Mystics of the Abyss|Mystics of the Abyss]]
+Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Mystics of the Abyss\|Mystics of the Abyss]]
 Bloodline:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Mystics of the Abyss|Mystics of the Abyss]] 
 Player:: NPC
 Generation::7th
