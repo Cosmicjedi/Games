@@ -17,7 +17,7 @@ Chronicle: KVTM2022
 Nature:
 Demeanor:
 Clan:: Ventrue
-Generation:: 8th
+Generation:: 6th
 Sire::
 ## Description
 
