@@ -16,7 +16,7 @@ dates:: 2022-08-19
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina.md\|Selina]]                         | Toreador | 7th | [[Violetta\|Violetta]]                                                                               | Vampire | NPC    |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Iris.md\|Iris]]                             | Ventrue  | \-  | \-                                                                                                   | Ghoul   | NPC    |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Elisabetta Ranaldi.md\|Elisabetta Ranaldi]] | Giovanni | 9th | \-                                                                                                   | Vampire | NPC    |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene.md\|Annabelle Greene]]     | \-       | \-  | \-                                                                                                   | Ghoul   | NPC    |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Annabelle Greene.md\|Annabelle Greene]]     | \-       | \-  | \-                                                                                                   | Vampire | NPC    |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Alexi.md\|Alexi]]                           | Ravnos   | \-  | \-                                                                                                   | Vampire | NPC    |
 
 
