@@ -10,7 +10,8 @@ dates:: 2022-08-21
 Clan:: Giovanni
 Type:: Vampire
 Player:: NPC
-Generation:: 9th
+Generation:: 9th(6th)
+Sire:: [[Spaces/Gaming/Keith Grace Games/z - Retired Games/Las Vegas Mixed cWoD 2022/Areas/Characters/Marco Giovanni|Marco Giovanni]]
 ## Description
 
 
