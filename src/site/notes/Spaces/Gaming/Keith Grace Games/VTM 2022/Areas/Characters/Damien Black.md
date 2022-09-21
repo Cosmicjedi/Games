@@ -73,8 +73,8 @@ ___
 ___
 | Combo Disciplines                  | Elder Powers    |
 | ---------------------------------- | --- |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Eminence of Shade Conquering Blood|Eminence of Shade Conquering Blood]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|Shadow Step]]   |
-|                                    | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Mark|Shadow Mark]]    |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Eminence of Shade Conquering Blood\|Eminence of Shade Conquering Blood]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|Shadow Step]]   |
+|                                    | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Mark\|Shadow Mark]]    |
 ___
 | Rituals                                                                                                                       | Level |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----- |
