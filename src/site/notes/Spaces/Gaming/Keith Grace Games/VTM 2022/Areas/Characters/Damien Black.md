@@ -207,7 +207,7 @@ Grand Sire:: [Narses](https://whitewolf.fandom.com/wiki/Narses "Narses")
 Sire: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)
 ### Coterie 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Viktor Carmine|Viktor Carmine]]
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Elisabetta Ranaldi|Elisabetta Ranaldi]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Elisabete Ranaldi|Elisabete Ranaldi]]
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Selina|Selina]]
 
 ### NPCs
