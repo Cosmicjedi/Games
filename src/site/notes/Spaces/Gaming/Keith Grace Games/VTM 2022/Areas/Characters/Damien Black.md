@@ -15,7 +15,7 @@ Born:: 1222 CE
 Father:: Leod founder of Clan Macleod
 Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)   
 Embraced:: 1242 CE
-Generation:: 6th
+Generation:: 5th
 ## Description
 Height:: 200.66cm
 Weight:: 90kg
@@ -28,8 +28,8 @@ Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) 
 ___
 |            |              |           |           |             |           |
 | ---------- | ------------ | --------- | --------- | ----------- | --------- |
-| Name:      | Damien Black | Nature:   | Survivor  | Clan:       | Lasombra  |
-| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 6         |
+| Name:      | Damien Black | Nature:   | Defender  | Clan:       | Lasombra  |
+| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 5         |
 | Chronicle: |              | Concept:  | Damien Darhk  meets Connor Macleod        | Sire:       | Magdalena |
 ___
 |     | **Attributes** |     |     
@@ -37,9 +37,9 @@ ___
 ___
 | Physical   |             | Social        |            |     Mental      |          |
 | ---------- | ----------- | ------------- | ---------- |---------------:| -------- |
-| Strength:  | 🔵🔵        | Charisma:     | 🔵🔵🔵     |   Perception:   | 🔵🔵🔵   |
+| Strength:  | 🔵🔵🔵        | Charisma:     | 🔵🔵🔵     |   Perception:   | 🔵🔵🔵   |
 | Dexterity: | 🔵🔵🔵      | Manipulation: Persuasive | 🔵🔵🔵🔵🔵 |  Intelligence:  | 🔵🔵🔵    |
-| Stamina: Tough  | 🔵🔵🔵🔵🔵  | Appearance:   | 🔵🔵🔵     |      Wits:      | 🔵🔵🔵🔵 |
+| Stamina: Tough  | 🔵🔵🔵🔵🔵  | Appearance:   | 🔵🔵🔵🔵🔵     |      Wits:      | 🔵🔵🔵🔵 |
 ___
 |     | **Abilities** |     |     
 | --- | ----------------- | --- | 
@@ -68,7 +68,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]             | 🔵🔵🔵                                                                                                                                                                                                                                                  | Retainers   | 🔵🔵🔵     |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]             | 🔵🔵🔵                                                                                                                                                                                                                                                    | Library  - Blood Magic   | 🔵🔵🔵🔵🔵🔵 |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                | 🔵                                                                                                                                                                                                                                                      | Resources   | 🔵🔵🔵🔵       |               |            |
-| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy\|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt\|Path of Levinbolt]]         | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
+| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy\|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt\|Path of Levinbolt]]         | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                                |             |            |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy\|Necromancy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Grave's Decay\|Grave's Decay]]                                               | 🔵🔵🔵                                                                                                                                                                                                                                                     |             |            |               |            |
 ___
 | Combo Disciplines                  | Elder Powers    |
@@ -105,14 +105,14 @@ ___
 ___
 | Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
 | --------- | ---------- | --------------- | -------- |
-| 8         | 27/30      | 6               | 4        |
+| 8       | 40/40      | 8               | 4        |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)                                                                           | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)                           |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Light Sleeper#Light Sleeper\|Light Sleeper]] (2pt. Merit)                                                                     | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Prey Exclusion#Prey Exclusion\|Prey Exclusion - No Bun]] (1pt. Flaw) |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eyes of Shadow#Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)                                                                  | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)                |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Controllable Night Sight#Controllable Night Sight\|Controllable Night Sight]] (2pt. Merit)                                    |                                                                             |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Blush of Health|Blush of Health]] (1pt. Merit)                                    |                                                                             |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                                                              |                                                                             |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie\|Hidden Diablerie]] (3pt. Merit) |                                                                             |
 | [[Bloodline Founder|Bloodline Founder]]                                                                                                           |                                                                             |
@@ -171,9 +171,9 @@ Shadow speech
 ### XP Log
 | Date      | Earned | Spent | Reason                              | Running total |  |                 |     |
 |-----------|--------|-------|-------------------------------------|---------------|--|-----------------|-----|
-| pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 122 |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 121 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 1   |
+| pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 130 |
+| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 127 |
+| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 3   |
 | 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |     |
 | 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |     |
 | 8/23/2022 | 3      |       | game3                               | 4             |  |                 |     |
@@ -200,20 +200,24 @@ Shadow speech
 | 9/13/2022 | 5      |       | random award                        | 9             |  |                 |     |
 | 9/13/2022 |        | 2     | Library 6                           | 7             |  |                 |     |
 | 9/13/2022 |        | 7     | Necromancy 2                        | 0             |  |                 |     |
-| 9/15/2022 | 4      |       | game                                | 4             |  |                 |     |
-| 9/17/2022 | 4      |       | game                                | 8             |  |                 |     |
-| 9/17/2022 |        | 8     | necro 3 at discount                 | 0             |  |                 |     |
-| 9/20/2022 | 4      |       | game                                | 4             |  |                 |     |
-| 9/20/2022 |        | 2     | empathy 1                           | 2             |  |                 |     |
-| 9/21/2022 | 4      |       | GAME                                | 6             |  |                 |     |
-| 9/23/2022 | 3      |       | GAME                                | 9             |  |                 |     |
-| 9/23/2022 | 40     |       | xp catchup                          | 49            |  |                 |     |
-| 9/23/2022 |        | 21    | levinbolt 4                         | 28            |  |                 |     |
-| 9/23/2022 |        | 28    | levinbolt 5                         | 0             |  |                 |     |
-| 9/29/2022 | 3      |       | Game                                | 3             |  |                 |     |
-| 9/30/2022 |        | 2     | 2 specialties                       | 1             |  |                 |     |
-| 9/30/2022 | 1      |       | Bonus                               | 2             |  |                 |     |
-| 9/30/2022 |        | 1     | Tough specialty                     | 1             |
+| 9/14/2022 | 3      |       | game                                | 3             |  |                 |     |
+| 9/15/2022 | 4      |       | game                                | 7             |  |                 |     |
+| 9/17/2022 | 4      |       | game                                | 11            |  |                 |     |
+| 9/17/2022 |        | 8     | necro 3 at discount                 | 3             |  |                 |     |
+| 9/20/2022 | 4      |       | game                                | 7             |  |                 |     |
+| 9/20/2022 |        | 2     | empathy 1                           | 5             |  |                 |     |
+| 9/21/2022 | 4      |       | GAME                                | 9             |  |                 |     |
+| 9/23/2022 | 3      |       | GAME                                | 12            |  |                 |     |
+| 9/23/2022 | 40     |       | xp catchup                          | 52            |  |                 |     |
+| 9/23/2022 |        | 21    | levinbolt 4                         | 31            |  |                 |     |
+| 9/23/2022 |        | 28    | levinbolt 5                         | 3             |  |                 |     |
+| 9/29/2022 | 3      |       | Game                                | 6             |  |                 |     |
+| 9/30/2022 |        | 2     | 2 specialties                       | 4             |  |                 |     |
+| 9/30/2022 | 1      |       | Bonus                               | 5             |  |                 |     |
+| 9/30/2022 |        | 1     | Tough specialty                     | 4             |  |                 |     |
+| 9/30/2022 | 5      |       | game                                | 9             |  |                 |     |
+| 9/30/2022 |        | 6     | attributes during rebirth           | 3             |  |                 |     |
+|           |        |       |                                     | 3             |
 
 
 [[Damien XP Log.xlsx]]
