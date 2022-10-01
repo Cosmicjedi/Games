@@ -10,6 +10,6 @@ dates:: 2022-09-21
 are a Lasombra Bloodline created by Damien Black in 2022
 ## Disciplines 
 [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration|Obtenebration]], [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate|Dominate]], [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy|Necromancy]]
-## Additional Flaws
+## Flaws
 Nightmares of Damien diablerizing them
 victims drained always become free willed aggressive zombies (May be bought off with 4xp)
