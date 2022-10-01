@@ -31,11 +31,12 @@ Int specialty subject authority
 occult specialty kindred lore
 Custodian 4
 Veil of blood: 4
-scholor of others
+Scholor of others
 ## Powers
 Obtenebration 3
 Dominate 3
-
+Obfuscate 3
+Levinbolt 3
 
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Requirements for Annabelle to Earn Embrace|Requirements for Annabelle to Earn Embrace]]
