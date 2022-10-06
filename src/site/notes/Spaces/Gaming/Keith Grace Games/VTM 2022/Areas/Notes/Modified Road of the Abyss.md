@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/keith-grace-games/vtm-2022/areas/notes/modified-road-of-the-abyss/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien MacLeod|Damien MacLeod]]
 tags:: #V20 #Keith/KVTM2022/Character/PC 
 dates:: 2022-08-29
 
