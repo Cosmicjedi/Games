@@ -62,8 +62,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Amnesia.md\|Amnesia]]                                     | 2      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Weak-Willed.md\|Weak-Willed]]                             | 3      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Uppity.md\|Uppity]]                                       | 3      | Social       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Sleeping With the Enemy.md\|Sleeping With the Enemy]]     | 3      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Slow Healing.md\|Slow Healing]]                           | 3      | Physical     | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Sleeping With the Enemy.md\|Sleeping With the Enemy]]     | 3      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Repelled by Crosses.md\|Repelled by Crosses]]             | 3      | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Permanent Wound.md\|Permanent Wound]]                     | 3      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Permanent Fangs.md\|Permanent Fangs]]                     | 3      | Physical     | Vampire |
