@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/keith-grace-games/vtm-2022/areas/notes/damiens-goals/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien MacLeod|Damien MacLeod]]
 tags:: 
 dates:: 2022-09-21
 
@@ -30,6 +30,7 @@ in no special order
 - [ ] Draw the Dunsirn loyalty from clan Giovanni to the Lasombra via Felicia's bloodline. 
 - [ ] Join Court of Blood
 - [ ] Create an oubliette in the bowels of castle Dunvegan 
+- [ ] Convince his son to turn his life around.
 
 ## Coterie
 - [ ] Help Selina in whatever personal goals she is willing to share with Damien.
