@@ -19,7 +19,7 @@ Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Mystics
 Bloodline:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Mystics of the Abyss|Mystics of the Abyss]] 
 Player:: NPC
 Generation::7th
-Sire:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+Sire:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien MacLeod|Damien MacLeod]]
 ## Backgrounds
 Contacts
 Backup
