@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/gaming/keith-grace-games/vtm-2022/areas/notes/library-contents/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+up:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien MacLeod|Damien MacLeod]]
 tags:: #notes
 dates:: 2022-08-27
 
@@ -15,3 +15,4 @@ a treatise on kindred lineage - Dr. NetChurch
 Spirit ward book
 Viktor book on spirit guardian info.
 Levinbolt 4-5
+Book by Stephanie Hawking time mage who got erased. 
