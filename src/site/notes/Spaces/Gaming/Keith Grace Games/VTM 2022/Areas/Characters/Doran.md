@@ -10,6 +10,6 @@ dates:: 2022-08-21
 # Doran
 Clan:: Ventrue
 Type:: Vampire
-KilledBy:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+KilledBy:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien MacLeod|Damien MacLeod]]
 Generation:: 6th
 Sire:: [Gaius Marcellus | White Wolf Wiki | Fandom](https://whitewolf.fandom.com/wiki/Gaius_Marcellus)
