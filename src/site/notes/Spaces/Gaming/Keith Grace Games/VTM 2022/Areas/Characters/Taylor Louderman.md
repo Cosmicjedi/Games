@@ -13,7 +13,7 @@ Clan:: Lasombra - [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow 
 Type:: Vampire
 Player:: NPC
 Generation::7th
-Sire:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien Black|Damien Black]]
+Sire:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Damien MacLeod|Damien MacLeod]]
 Bloodline:: [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Children|Shadow Children]]
 
 
