@@ -97,15 +97,18 @@ ___
 | [[Deflection of Wooden Doom|Deflection of Wooden Doom]]                                                                                                 | 1     |
 | [[Ward vs Kindred|Ward vs Kindred]]                                                                                                           | 4     |
 | [[Enchant Talisman |Enchant Talisman ]]                                                                                                         | 5     |
-| [[Recure the Homeland|Recure the Homeland]]                                                                                                       |  2    |
-| [[Ward vs Lupines|Ward vs Lupines]]                                                                                                           |  3    |
+| [[Recure the Homeland|Recure the Homeland]]                                                                                                       | 2     |
+| [[Ward vs Lupines|Ward vs Lupines]]                                                                                                           | 3     |
+| [[Domino of Life|Domino of Life]]                                                                                                            | 1     |
+| [[Lesser Domino |Lesser Domino ]]                                                                                                            | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             |       |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
 | Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
 | --------- | ---------- | --------------- | -------- |
-| 9/4       | 28/40      | 8             | 6        |
+| 9/6       | 39/40      | 8             | 6        |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -116,7 +119,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                                                              |                                                                             |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie\|Hidden Diablerie]] (3pt. Merit) |                                                                             |
 | [[Bloodline Founder|Bloodline Founder]]                                                                                                           |                                                                             |
-| [[blood kings favor|blood kings favor]] 2pt                                                                                                                                |                                                                             |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/blood kings favor|blood kings favor]] 2pt                                                                                                                                |                                                                             |
 ___
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
