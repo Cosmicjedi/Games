@@ -36,25 +36,26 @@ ___
 ___
 | Physical   |             | Social        |            |     Mental      |          |
 | ---------- | ----------- | ------------- | ---------- |---------------:| -------- |
-| Strength:  | 🔵🔵🔵        | Charisma:     | 🔵🔵🔵     |   Perception:   | 🔵🔵🔵   |
-| Dexterity: | 🔵🔵🔵      | Manipulation: Persuasive | 🔵🔵🔵🔵🔵 |  Intelligence:  | 🔵🔵🔵    |
+| Strength:  | 🔵🔵🔵        | Charisma:     | 🔵🔵🔵     |   Perception:   | 🔵🔵🔵🔵   |
+| Dexterity: | 🔵🔵🔵      | Manipulation: Persuasive | 🔵🔵🔵🔵🔵 |  Intelligence:  | 🔵🔵🔵🔵    |
 | Stamina: Tough  | 🔵🔵🔵🔵🔵  | Appearance:   | 🔵🔵🔵🔵🔵     |      Wits:      | 🔵🔵🔵🔵 |
 ___
 |     | **Abilities** |     |     
 | --- | ----------------- | --- | 
 ___
-| Talents       | Specialties | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                                 | Rating     |
-| ------------- | ----------- | -------- | ------------ | ----------- | -------- | -------------- | ------------------------------------------- | ---------- |
-| Alertness:    |             | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                             |            |
-| Athletics:    |             | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                             |            |
-| Awareness:    |             |          | Drive:       |             | 🔵🔵     | Finance:       |                                             | 🔵🔵       |
-| Brawl:        |             | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                             | 🔵🔵🔵     |
-| Empathy:      |             | 🔵         | Firearms:    |             |          | Law:           |                                             |            |
-| Expression:   |             |          | Larceny:     |             |          | Medicine:      |                                             |            |
-| Intimidation: | Veiled Threats            | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵🔵     | Occult:        | Thanatology, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
-| Leadership:   |             | 🔵🔵🔵🔵 | Performance: |  Painting           | 🔵🔵🔵     | Politics:      |                                             |            |
-| Streetwise:   |             |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                             | 🔵🔵       |
-| Subterfuge:   |             | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                             | 🔵🔵       |
+| Talents       | Specialties    | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                                              | Rating       |
+| ------------- | -------------- | -------- | ------------ | ----------- | -------- | -------------- | -------------------------------------------------------- | ------------ |
+| Alertness:    |                | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                                          |              |
+| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                                          |              |
+| Awareness:    |                |          | Drive:       |             | 🔵🔵     | Finance:       |                                                          | 🔵🔵         |
+| Brawl:        |                | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                                          | 🔵🔵🔵       |
+| Empathy:      |                | 🔵       | Firearms:    |             |          | Law:           |                                                          |              |
+| Expression:   |                |          | Larceny:     |             |          | Medicine:      |                                                          |              |
+| Intimidation: | Veiled Threats | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵🔵   | Occult:        | Thanatology, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
+| Leadership:   |                | 🔵🔵🔵🔵 | Performance: | Painting    | 🔵🔵🔵   | Politics:      |                                                          |              |
+| Streetwise:   |                |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                                          | 🔵🔵         |
+| Subterfuge:   |                | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                                          | 🔵🔵         |
+| Meditation              |                | 🔵         |              |             |          |                |                                                          |              |
 ___
 |     |     | **Advantages** |     |     | 
 | --- | --- | -------------- | --- | --- |
@@ -78,8 +79,8 @@ ___
 ___
 | Rituals                                                                                                                       | Level |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]]                  | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]] | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]]                                                                                                             | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]]                                                                                                   | 1     |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Petition the Ancestors|Petition the Ancestors]]                                                                                                    | 1     |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Resume the Mortal Coil|Resume the Mortal Coil]]                                                                                                    | 5     |
 | [[Communicate with Kindred Sire |Communicate with Kindred Sire ]]                                                                                            | 1     |
@@ -101,14 +102,14 @@ ___
 | [[Ward vs Lupines|Ward vs Lupines]]                                                                                                           | 3     |
 | [[Domino of Life|Domino of Life]]                                                                                                            | 1     |
 | [[Lesser Domino |Lesser Domino ]]                                                                                                            | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             |       |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             | 1      |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
-| Willpower | Blood Pool | Blood Per Round | [[Modified Road of the Abyss\|Road of The Abyss]] |
+| Willpower | Blood Pool | Blood Per Round | [[Path of Lilin witches|Path of Lilin witches]] |
 | --------- | ---------- | --------------- | -------- |
-| 9/7       | 26/40      | 8             | 6        |
+| 9/7       | 34/40      | 8             | 3       |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -173,65 +174,7 @@ Shadow speech
 | 9/1/2022  |        | 1     | specialty Blood Magic |
 ### XP Log
 
-| Date      | Earned | Spent | Reason                              | Running total |  |                 |     |
-|-----------|--------|-------|-------------------------------------|---------------|--|-----------------|-----|
-| pregame   |        | 1     | ASL                                 | -1            |  | Total XP Earned | 188 |
-| 8/19/2022 | 3      |       | game 1                              | 2             |  | Total XP Spent  | 180 |
-| 8/21/2022 | 4      |       | game 2                              | 6             |  | Total XP Left   | 8   |
-| 8/21/2022 |        | 2     | ocuult Specialization Obtenebration | 4             |  |                 |     |
-| 8/21/2022 |        | 3     | Eyes of the Abyss                   | 1             |  |                 |     |
-| 8/23/2022 | 3      |       | game3                               | 4             |  |                 |     |
-| 8/23/2022 | 2      |       | diablerie                           | 6             |  |                 |     |
-| 8/24/2022 | 4      |       | Game 4                              | 10            |  |                 |     |
-| 8/25/2022 |        | 5     | int 3                               | 5             |  |                 |     |
-| 8/25/2022 | 5      |       | Game 5                              | 10            |  |                 |     |
-| 8/25/2022 |        | 3     | occult 5                            | 7             |  |                 |     |
-| 8/25/2022 |        | 2     | Abyss Mysticism                     | 5             |  |                 |     |
-| 8/25/2022 |        | 5     | Hidden Diablerie                    | 0             |  |                 |     |
-| 8/26/2022 | 4      |       | game 6                              | 4             |  |                 |     |
-| 8/27/2022 | 4      |       | game 7                              | 8             |  |                 |     |
-| 8/27/2022 | 2      |       | diablerie                           | 10            |  |                 |     |
-| 8/29/2022 | 4      |       | Game 8                              | 14            |  |                 |     |
-| 8/29/2022 |        | 2     | conviction 2                        | 12            |  |                 |     |
-| 8/30/2022 | 4      |       | game 9                              | 16            |  |                 |     |
-| 8/30/2022 |        | 10    | Levinbolt 1                         | 6             |  |                 |     |
-| 8/30/2022 | 5      |       | game 10                             | 11            |  |                 |     |
-| 9/1/2022  | 3      |       | game 11                             | 14            |  |                 |     |
-| 9/9/2022  | 3      |       | downtime                            | 17            |  |                 |     |
-| 9/9/2022  | 4      |       | downtime                            | 21            |  |                 |     |
-| 9/9/2022  |        | 7     | fort 3                              | 14            |  |                 |     |
-| 9/9/2022  |        | 10    | Corpse Decay 1                      | 4             |  |                 |     |
-| 9/13/2022 | 5      |       | random award                        | 9             |  |                 |     |
-| 9/13/2022 |        | 2     | Library 6                           | 7             |  |                 |     |
-| 9/13/2022 |        | 7     | Necromancy 2                        | 0             |  |                 |     |
-| 9/14/2022 | 3      |       | game                                | 3             |  |                 |     |
-| 9/15/2022 | 4      |       | game                                | 7             |  |                 |     |
-| 9/17/2022 | 4      |       | game                                | 11            |  |                 |     |
-| 9/17/2022 |        | 8     | necro 3 at discount                 | 3             |  |                 |     |
-| 9/20/2022 | 4      |       | game                                | 7             |  |                 |     |
-| 9/20/2022 |        | 2     | empathy 1                           | 5             |  |                 |     |
-| 9/21/2022 | 4      |       | GAME                                | 9             |  |                 |     |
-| 9/23/2022 | 3      |       | GAME                                | 12            |  |                 |     |
-| 9/23/2022 | 40     |       | xp catchup                          | 52            |  |                 |     |
-| 9/23/2022 |        | 21    | levinbolt 4                         | 31            |  |                 |     |
-| 9/23/2022 |        | 28    | levinbolt 5                         | 3             |  |                 |     |
-| 9/29/2022 | 3      |       | Game                                | 6             |  |                 |     |
-| 9/30/2022 |        | 2     | 2 specialties                       | 4             |  |                 |     |
-| 9/30/2022 | 1      |       | Bonus                               | 5             |  |                 |     |
-| 9/30/2022 |        | 1     | Tough specialty                     | 4             |  |                 |     |
-| 9/30/2022 | 5      |       | game                                | 9             |  |                 |     |
-| 9/30/2022 |        | 6     | attributes during rebirth           | 3             |  |                 |     |
-| 10/2/2022 | 3      |       | game                                | 6             |  |                 |     |
-| 10/3/2022 | 3      |       | game                                | 9             |  |                 |     |
-| 10/3/2022 |        | 6     | Temporis 1                          | 3             |  |                 |     |
-| 10/3/2022 |        | 3     | Temporis 2                          | 0             |  |                 |     |
-| 10/3/2022 | 4      |       | game 2                              | 4             |  |                 |     |
-| 10/3/2022 |        | 6     | Temporis 3                          | -2            |  |                 |     |
-| 10/3/2022 |        | 16    | Temporis 4                          | -18           |  |                 |     |
-| 10/3/2022 |        | 22    | Temporis 5                          | -40           |  |                 |     |
-| 10/4/2022 | 40     |       | give up pot 4-5                     | 0             |  |                 |     |
-| 10/4/2022 | 4      |       | game                                | 4             |  |                 |     |
-| 10/5/2022 | 4      |       | game                                | 8             |
+
 
 
 [[Damien XP Log.xlsx]]
