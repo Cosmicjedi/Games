@@ -27,8 +27,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Kid.md\|New Kid]]                                     | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/New Arrival.md\|New Arrival]]                             | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Mistaken Identity.md\|Mistaken Identity]]                 | 1      | Social       | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Infamous Sire.md\|Infamous Sire]]                         | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Incomplete Understanding.md\|Incomplete Understanding]]   | 1      | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Infamous Sire.md\|Infamous Sire]]                         | 1      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Impatient.md\|Impatient]]                                 | 1      | Mental       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hard of Hearing.md\|Hard of Hearing]]                     | 1      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Expendable.md\|Expendable]]                               | 1      | Social       | Vampire |
@@ -51,8 +51,8 @@ dates:: 2022-08-11
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death.md\|Kiss of Death]]                         | 2      | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Infectious Bite.md\|Infectious Bite]]                     | 2      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Fourteenth Generation.md\|Fourteenth Generation]]         | 2      | Physical     | Vampire |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Escaped Target.md\|Escaped Target]]                       | 2      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Failure.md\|Failure]]                                     | 2      | Social       | Vampire |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Escaped Target.md\|Escaped Target]]                       | 2      | Social       | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eerie Presence.md\|Eerie Presence]]                       | 2      | Supernatural | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Dulled Bite.md\|Dulled Bite]]                             | 2      | Physical     | Vampire |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Disfigured.md\|Disfigured]]                               | 2      | Physical     | Vampire |
