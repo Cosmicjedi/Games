@@ -80,8 +80,8 @@ ___
 ___
 | Rituals                                                                                                                       | Level |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]]                                                                                                             | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]]                                                                                                   | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]]                  | 1     |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]] | 1     |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Petition the Ancestors|Petition the Ancestors]]                                                                                                    | 1     |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Resume the Mortal Coil|Resume the Mortal Coil]]                                                                                                    | 5     |
 | [[Communicate with Kindred Sire |Communicate with Kindred Sire ]]                                                                                            | 1     |
@@ -103,7 +103,10 @@ ___
 | [[Ward vs Lupines|Ward vs Lupines]]                                                                                                           | 3     |
 | [[Domino of Life|Domino of Life]]                                                                                                            | 1     |
 | [[Lesser Domino |Lesser Domino ]]                                                                                                            | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             | 1      |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             | 1     |
+| [[Soul Contract |Soul Contract ]]                                                                                                            | 5     |
+| [[Soul Contract bind to self|Soul Contract bind to self]]                                                                                                | 5     |
+| [[Soul Contract bind to item|Soul Contract bind to item]]                                                                                                                              |  5     |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
@@ -174,9 +177,6 @@ Shadow speech
 | 9/1/2022  |        | 2     | Road of Abyss 4       |               |
 | 9/1/2022  |        | 1     | specialty Blood Magic |
 ### XP Log
-
-
-
 
 [[Damien XP Log.xlsx]]
 
