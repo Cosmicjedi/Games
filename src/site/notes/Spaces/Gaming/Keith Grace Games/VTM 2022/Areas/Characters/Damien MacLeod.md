@@ -46,7 +46,7 @@ ___
 | Talents       | Specialties    | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                                              | Rating       |
 | ------------- | -------------- | -------- | ------------ | ----------- | -------- | -------------- | -------------------------------------------------------- | ------------ |
 | Alertness:    |                | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                                          |              |
-| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵     | Computer:      |                                                          |              |
+| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵🔵     | Computer:      |                                                          |              |
 | Awareness:    |                |          | Drive:       |             | 🔵🔵     | Finance:       |                                                          | 🔵🔵         |
 | Brawl:        |                | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                                          | 🔵🔵🔵       |
 | Empathy:      |                | 🔵       | Firearms:    |             |          | Law:           |                                                          |              |
@@ -106,14 +106,16 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             | 1     |
 | [[Soul Contract |Soul Contract ]]                                                                                                            | 5     |
 | [[Soul Contract bind to self|Soul Contract bind to self]]                                                                                                | 5     |
-| [[Soul Contract bind to item|Soul Contract bind to item]]                                                                                                                              |  5     |
+| [[Soul Contract bind to item|Soul Contract bind to item]]                                                                                                | 5     |
+| [[Escape to true friend|Escape to true friend]]                                                                                                     | 5     |
+| [[Summon soul|Summon soul]]                                                                                                                              |   4    |
 ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
 | Willpower | Blood Pool | Blood Per Round | [[Path of Lilin witches|Path of Lilin witches]] |
 | --------- | ---------- | --------------- | -------- |
-| 9/7       | 34/40      | 8             | 3       |
+| 9/6       | 34/40 15/20      | 8             | 3       |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
