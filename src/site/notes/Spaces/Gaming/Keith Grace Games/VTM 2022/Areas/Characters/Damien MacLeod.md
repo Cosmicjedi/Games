@@ -46,7 +46,7 @@ ___
 | Talents       | Specialties    | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                                              | Rating       |
 | ------------- | -------------- | -------- | ------------ | ----------- | -------- | -------------- | -------------------------------------------------------- | ------------ |
 | Alertness:    |                | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                                          |              |
-| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      |             | 🔵🔵🔵     | Computer:      |                                                          |              |
+| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      | iconography            | 🔵🔵🔵🔵🔵     | Computer:      |                                                          |              |
 | Awareness:    |                |          | Drive:       |             | 🔵🔵     | Finance:       |                                                          | 🔵🔵         |
 | Brawl:        |                | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                                          | 🔵🔵🔵       |
 | Empathy:      |                | 🔵       | Firearms:    |             |          | Law:           |                                                          |              |
@@ -70,7 +70,7 @@ ___
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                                                                                                                                                                             | 🔵                                                                                                                                                                                                                                                       | Resources              | 🔵🔵🔵🔵     |               |            |
 | [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy\|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt\|Path of Levinbolt]]                    | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                               |                        |              |               |            |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy\|Necromancy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Grave's Decay\|Grave's Decay]] | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                               |                        |              |               |            |
-| [[Temporis|Temporis]]                                                                                                                                                                                                | 🔵🔵🔵🔵🔵🔵                                                                                                                                                                                                                                             |                        |              |               |            |
+| [[Temporis|Temporis]]                                                                                                                                                                                                | 🔵🔵🔵🔵🔵🔵🔵                                                                                                                                                                                                                                             |                        |              |               |            |
 | [[Ash Path |Ash Path ]]                                                                                                                                                                                                           |🔵🔵                                                                                                                                                                                                                                                          |                        |              |               |            |
 ___
 | Combo Disciplines                  | Elder Powers    |
@@ -113,9 +113,9 @@ ___
 |     | **Other Traits** |     |     
 | --- | ----------------- | --- | 
 ___
-| Willpower | Blood Pool | Blood Per Round | [[Path of Lilin witches|Path of Lilin witches]] |
-| --------- | ---------- | --------------- | -------- |
-| 9/6       | 34/40 15/20      | 8             | 3       |
+| Willpower |  [[Path of Lilin witches|Path of Lilin witches]] |
+| --------- | -------- |
+| 9/9       |  3       |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
