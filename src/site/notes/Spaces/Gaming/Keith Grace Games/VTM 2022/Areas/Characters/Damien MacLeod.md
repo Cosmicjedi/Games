@@ -49,7 +49,7 @@ ___
 | Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      | iconography            | 🔵🔵🔵🔵🔵     | Computer:      |                                                          |              |
 | Awareness:    |                |          | Drive:       |             | 🔵🔵     | Finance:       |                                                          | 🔵🔵         |
 | Brawl:        |                | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                                          | 🔵🔵🔵       |
-| Empathy:      |                | 🔵       | Firearms:    |             |          | Law:           |                                                          |              |
+| Empathy:      |                | 🔵🔵       | Firearms:    |             |          | Law:           |                                                          |              |
 | Expression:   |                |          | Larceny:     |             |          | Medicine:      |                                                          |              |
 | Intimidation: | Veiled Threats | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵🔵   | Occult:        | Necromancy, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
 | Leadership:   |                | 🔵🔵🔵🔵 | Performance: | Painting    | 🔵🔵🔵   | Politics:      |                                                          |              |
@@ -60,62 +60,15 @@ ___
 |     |     | **Advantages** |     |     | 
 | --- | --- | -------------- | --- | --- |
 ___
-| Disciplines                                                                                                                                                                                                 |                                                                                                                                                                                                                                                          | Backgrounds            |              | Virtues       |            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------ | ------------- | ---------- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#Obtenebration\|Obtenebration]]                                                                                                                                                              | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#• Shadow Play\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•• Shroud of Night\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••• Arms of the Abyss\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#•••• Black Metamorphosis\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• Tenebrous Form\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|🔵]]🔵 | Sanctum                | 🔵🔵🔵🔵     | Conviction:   | 🔵🔵🔵     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#Dominate\|Dominate]]                                                                                                                                                                             | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#• Command\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•• Mesmerize\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••• The Forgetful Mind\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#•••• Conditioning\|🔵]][[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Dominate#••••• Possession\|🔵 ]]                                                                                       | Status                 | 🔵🔵🔵🔵     | Self-Control: | 🔵🔵🔵🔵   |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Potence#potence\|Potence]]                                                                                                                                                                                | 🔵🔵🔵                                                                                                                                                                                                                                                   | Herd                   | 🔵🔵🔵       | Courage:      | 🔵🔵🔵🔵🔵 |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obfuscate#Obfuscate\|Obfuscate]]                                                                                                                                                                          | 🔵🔵🔵                                                                                                                                                                                                                                                   | Retainers              | 🔵🔵🔵       |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Fortitude#Fortitude\|Fortitude]]                                                                                                                                                                          | 🔵🔵🔵                                                                                                                                                                                                                                                   | Library  - Blood Magic | 🔵🔵🔵🔵🔵🔵 |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Presence#Presence\|Presence]]                                                                                                                                                                             | 🔵                                                                                                                                                                                                                                                       | Resources              | 🔵🔵🔵🔵     |               |            |
-| [[Spaces/Gaming/Mine/M20Dresden/Areas/Rules/Thaumaturgy\|Thaumaturgy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Path of Levinbolt\|Path of Levinbolt]]                    | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                               |                        |              |               |            |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Necromancy\|Necromancy]] - [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Grave's Decay\|Grave's Decay]] | 🔵🔵🔵🔵🔵                                                                                                                                                                                                                                               |                        |              |               |            |
-| [[Temporis|Temporis]]                                                                                                                                                                                                | 🔵🔵🔵🔵🔵🔵🔵                                                                                                                                                                                                                                             |                        |              |               |            |
-| [[Ash Path |Ash Path ]]                                                                                                                                                                                                           |🔵🔵                                                                                                                                                                                                                                                          |                        |              |               |            |
+|                |     |         |     |        |     |
+| -------------- | --- | ------- | --- | ------ | --- |
+| Correspondence (No foci needed) | 3   |Life  | 3   |Prime  |     |
+| Entropy (No foci needed)              | 3    |Matter         |     |Spirit        |     |
+| Forces                | 3    | Mind (No foci needed)       | 4    | Time (No foci needed)      | 3    |
 ___
-| Combo Disciplines                  | Elder Powers    |
-| ---------------------------------- | --- |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Eminence of Shade Conquering Blood\|Eminence of Shade Conquering Blood]] | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Disciplines/Obtenebration#••••• • Shadowstep\|Shadow Step]]   |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Armory of the Abyss|Armory of the Abyss]]                                   | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Shadow Mark\|Shadow Mark]]    |
-___
-| Rituals                                                                                                                       | Level |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/DA20/Rituals/Eyes of the Abyss\|Eyes of The Abyss]]                  | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rules/Defense of The Sacred Haven\|Defense of the Sacred Haven]] | 1     |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Petition the Ancestors|Petition the Ancestors]]                                                                                                    | 1     |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Resume the Mortal Coil|Resume the Mortal Coil]]                                                                                                    | 5     |
-| [[Communicate with Kindred Sire |Communicate with Kindred Sire ]]                                                                                            | 1     |
-| [[Warding Circle Versus Spirit and wraith|Warding Circle Versus Spirit and wraith]]                                                                                   | 5     |
-| [[The Scribe|The Scribe]]*                                                                                                               | 1     |
-| [[Blood Walk|Blood Walk]]                                                                                                                | 2     |
-| [[Ritual of the Smoking Mirror|Ritual of the Smoking Mirror]]                                                                                              | 1     |
-| [[Principal Focus of Vitae Infusion|Principal Focus of Vitae Infusion]]                                                                                         | 1     |
-| [[Pavis of Foul Presence|Pavis of Foul Presence]]                                                                                                    | 3     |
-| [[Ritual of The Unearthed Fetter|Ritual of The Unearthed Fetter]]                                                                                            | 3     |
-| [[Track Transgressor|Track Transgressor]]                                                                                                        | 4     |
-| [[Track Abyss|Track Abyss]]                                                                                                               | 4     |
-| [[Warding Circle Versus Kindred|Warding Circle Versus Kindred]]                                                                                             | 4     |
-| [[Warding Circle Versus Fallen|Warding Circle Versus Fallen]]                                                                                              | 5     |
-| [[Deflection of Wooden Doom|Deflection of Wooden Doom]]                                                                                                 | 1     |
-| [[Ward vs Kindred|Ward vs Kindred]]                                                                                                           | 4     |
-| [[Enchant Talisman |Enchant Talisman ]]                                                                                                         | 5     |
-| [[Recure the Homeland|Recure the Homeland]]                                                                                                       | 2     |
-| [[Ward vs Lupines|Ward vs Lupines]]                                                                                                           | 3     |
-| [[Domino of Life|Domino of Life]]                                                                                                            | 1     |
-| [[Lesser Domino |Lesser Domino ]]                                                                                                            | 1     |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Rituals/Tattoo Ritual|Tattoo Ritual]]                                                                                                             | 1     |
-| [[Soul Contract |Soul Contract ]]                                                                                                            | 5     |
-| [[Soul Contract bind to self|Soul Contract bind to self]]                                                                                                | 5     |
-| [[Soul Contract bind to item|Soul Contract bind to item]]                                                                                                | 5     |
-| [[Escape to true friend|Escape to true friend]]                                                                                                     | 5     |
-| [[Summon soul|Summon soul]]                                                                                                                              |   4    |
-___
-|     | **Other Traits** |     |     
-| --- | ----------------- | --- | 
-___
-| Willpower |  [[Path of Lilin witches|Path of Lilin witches]] |
-| --------- | -------- |
-| 9/9       |  3       |
+| Willpower | Quintessence |  Arete    | [[Path of Lilin witches|Path of Lilin witches]] |
+| --------- | ------------ |  --- | ------------------------- |
+| 9/9       | 12           |  6   | 3                         |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -181,6 +134,7 @@ Shadow speech
 ### XP Log
 
 [[Damien XP Log.xlsx]]
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Old Vampire stuff|Old Vampire stuff]]
 
 ## Relationships
 ### Lineage
