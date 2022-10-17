@@ -134,7 +134,7 @@ Shadow speech
 ### XP Log
 
 [[Damien XP Log.xlsx]]
-[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Old Vampire stuff|Old Vampire stuff]]
+
 
 ## Relationships
 ### Lineage
@@ -200,3 +200,6 @@ Sovereign
 ## Goals
 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damiens Goals|Damiens Goals]]
+
+
+[[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Old Vampire stuff|Old Vampire stuff]]
