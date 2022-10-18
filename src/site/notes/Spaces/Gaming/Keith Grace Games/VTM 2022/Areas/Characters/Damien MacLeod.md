@@ -13,9 +13,7 @@ Type:: Vampire
 Birth Name:: Tormod son of Leod
 Born:: 1222 CE
 Father:: Leod founder of Clan Macleod
-Sire:: [Magdalena Castelucci Borcellino](https://whitewolf.fandom.com/wiki/Magdalena_Castelucci_Borcellino)   
-Embraced:: 1242 CE
-Generation:: 5th
+
 ## Description
 Height:: 200.6
 Hair:: Long Red to mid back
@@ -27,12 +25,12 @@ Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) 
 ___
 |            |              |           |           |             |           |
 | ---------- | ------------ | --------- | --------- | ----------- | --------- |
-| Name:      | Damien Black | Nature:   | Defender  | Clan:       | Lasombra  |
-| Player:    | Joshua Coons | Demeanor: | Visionary | Generation: | 5         |
-| Chronicle: |              | Concept:  | Damien Darhk  meets Connor Macleod        | Sire:       | Magdalena |
+| Name:      | Damien Black | Nature:   | Defender  |      |   |
+| Player:    | Joshua Coons | Demeanor: | Visionary |  |          |
+| Chronicle: |              | Concept:  | Damien Darhk  meets Connor Macleod        |       |  |
 ___
-|     | **Attributes** |     |     
-| --- | ----------------- | --- | 
+|     | **Attributes** |     |
+| --- |:--------------:| --- |
 ___
 | Physical   |             | Social        |            |     Mental      |          |
 | ---------- | ----------- | ------------- | ---------- |---------------:| -------- |
@@ -40,46 +38,51 @@ ___
 | Dexterity: | 🔵🔵🔵      | Manipulation: Persuasive | 🔵🔵🔵🔵🔵 |  Intelligence:  | 🔵🔵🔵🔵    |
 | Stamina: Tough  | 🔵🔵🔵🔵🔵  | Appearance:   | 🔵🔵🔵🔵🔵     |      Wits:      | 🔵🔵🔵🔵 |
 ___
-|     | **Abilities** |     |     
-| --- | ----------------- | --- | 
+|     | **Abilities** |     |
+| --- |:-------------:| --- |
 ___
-| Talents       | Specialties    | Rating   | Skills       | Specialties | Rating   | Knowledges     | Specialties                                              | Rating       |
-| ------------- | -------------- | -------- | ------------ | ----------- | -------- | -------------- | -------------------------------------------------------- | ------------ |
-| Alertness:    |                | 🔵🔵     | Animal Ken:  |             |          | Academics:     |                                                          |              |
-| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:      | iconography            | 🔵🔵🔵🔵🔵     | Computer:      |                                                          |              |
-| Awareness:    |                |          | Drive:       |             | 🔵🔵     | Finance:       |                                                          | 🔵🔵         |
-| Brawl:        |                | 🔵🔵🔵🔵 | Etiquette:   |             |          | Investigation: |                                                          | 🔵🔵🔵       |
-| Empathy:      |                | 🔵🔵       | Firearms:    |             |          | Law:           |                                                          |              |
-| Expression:   |                |          | Larceny:     |             |          | Medicine:      |                                                          |              |
-| Intimidation: | Veiled Threats | 🔵🔵🔵🔵 | Melee:       |             | 🔵🔵🔵   | Occult:        | Necromancy, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
-| Leadership:   |                | 🔵🔵🔵🔵 | Performance: | Painting    | 🔵🔵🔵   | Politics:      |                                                          |              |
-| Streetwise:   |                |          | Stealth:     |             | 🔵🔵🔵🔵 | Science:       |                                                          | 🔵🔵         |
-| Subterfuge:   |                | 🔵🔵🔵🔵 | Survival:    |             | 🔵🔵🔵🔵 | Technology:    |                                                          | 🔵🔵         |
-| Meditation              |                | 🔵         |              |             |          | Thanatology               |                                                          | 🔵🔵🔵             |
+| Talents       | Specialties    | Rating   | Skills             | Specialties | Rating     | Knowledges     | Specialties                                             | Rating       |
+| ------------- | -------------- | -------- | ------------------ | ----------- | ---------- | -------------- | ------------------------------------------------------- | ------------ |
+| Alertness:    |                | 🔵🔵     | Animal Ken:        |             |            | Academics:     |                                                         |              |
+| Athletics:    |                | 🔵🔵🔵🔵 | Crafts:            | iconography | 🔵🔵🔵🔵🔵 | Computer:      |                                                         | 🔵           |
+| Awareness:    |                |          | Drive:             |             | 🔵🔵       | Finance:       |                                                         | 🔵🔵         |
+| Brawl:        |                | 🔵🔵🔵🔵 | Etiquette:         |             |            | Investigation: |                                                         | 🔵🔵🔵       |
+| Empathy:      |                | 🔵🔵     | Firearms:          |             |            | Law:           |                                                         |              |
+| Expression:   |                |          | Larceny:           |             |            | Medicine:      |                                                         |              |
+| Intimidation: | Veiled Threats | 🔵🔵🔵🔵 | Melee:             |             | 🔵🔵🔵     | Occult:        | Necromancy, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
+| Leadership:   |                | 🔵🔵🔵🔵 | Performance:       | Painting    | 🔵🔵🔵     | Politics:      |                                                         |              |
+| Streetwise:   |                |          | Stealth:           |             | 🔵🔵🔵🔵   | Science:       |                                                         | 🔵🔵         |
+| Subterfuge:   |                | 🔵🔵🔵🔵 | Survival:          |             | 🔵🔵🔵🔵   | Technology:    |                                                         | 🔵🔵         |
+| Meditation    |                | 🔵       | Artistic Expression |             |🔵            | Thanatology    |                                                         | 🔵🔵🔵       |
 ___
-|     |     | **Advantages** |     |     | 
-| --- | --- | -------------- | --- | --- |
+|     | **Advantages** |     | 
+| ---  |:--------------:| --- |
 ___
-|                |     |         |     |        |     |
-| -------------- | --- | ------- | --- | ------ | --- |
-| Correspondence (No foci needed) | 3   |Life  | 3   |Prime  |     |
-| Entropy (No foci needed)              | 3    |Matter         |     |Spirit        |     |
-| Forces                | 3    | Mind (No foci needed)       | 4    | Time (No foci needed)      | 3    |
+|                                 |     | Spheres               |     |                       |     |
+| ------------------------------- | --- |--------------------- | --- | --------------------- | --- |
+| Correspondence (No foci needed) - Tutting | 3   | Life                  | 3   | Prime                 |     |
+| Entropy (No foci needed)        | 3   | Matter                |     | Spirit                |     |
+| Forces                          | 3   | Mind (No foci needed) | 4   | Time (No foci needed) | 3   |
 ___
-| Willpower | Quintessence |  Arete    | [[Path of Lilin witches|Path of Lilin witches]] |
-| --------- | ------------ |  --- | ------------------------- |
-| 9/9       | 12           |  6   | 3                         |
+| Backgrounds            |              |
+| ---------------------- | ------------ |
+| Sanctum                | 🔵🔵🔵🔵     |
+| Status                 | 🔵🔵🔵🔵     |
+| Herd                   | 🔵🔵🔵       |
+| Retainers              | 🔵🔵🔵       |
+| Library  - Blood Magic | 🔵🔵🔵🔵🔵🔵 |
+| Resources              | 🔵🔵🔵🔵     |
+| Alternate ID                       | 🔵             |
+___
+| Willpower | Quintessence| per turn |  Arete    |
+| --------- | -----------|- |  --- |
+| 9/9       | 12         | 2 |  6   |
 ___
 | Merits                                                                                                                          | Flaws                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)                                                                           | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)                           |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Light Sleeper#Light Sleeper\|Light Sleeper]] (2pt. Merit)                                                                     |  |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Eyes of Shadow#Eyes of Shadow\|Eyes of Shadow]] (4pt. Merit)                                                                  | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Kiss of Death#kiss of Death\|Kiss of Death]]   (2pt. Flaw)                |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Blush of Health|Blush of Health]] (1pt. Merit)                                    |                                                                             |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                                                              |                                                                             |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Hidden Diablerie\|Hidden Diablerie]] (3pt. Merit) |                                                                             |
-| [[Bloodline Founder|Bloodline Founder]]                                                                                                           |                                                                             |
-| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/blood kings favor|blood kings favor]] 2pt                                                                                                                                |                                                                             |
+|  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)                                                                          | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)                           |
+|  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                                                    |  |
+|  [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/blood kings favor|blood kings favor]] 2pt                                                                |                 |
 ___
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
@@ -129,7 +132,7 @@ Shadow speech
 | 9/1/2022  |        | 1     | Occult Library 5      |               |
 | 9/1/2022  |        | 2     | Occult 6              |               |
 | 9/1/2022  |        | 2     | Conviction 3          |               |
-| 9/1/2022  |        | 2     | Road of Abyss 4       |               |
+| 9/1/2022  |        | 2     | Artistic Expression       |               |
 | 9/1/2022  |        | 1     | specialty Blood Magic |
 ### XP Log
 
@@ -201,5 +204,10 @@ Sovereign
 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damiens Goals|Damiens Goals]]
 
-
+## old info
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Old Vampire stuff|Old Vampire stuff]]
+
+
+## Items
+Gem that doesn't exist on earth super heavily compressed purple diamond thumbnail size
+Ruby from hades plain small pea.
