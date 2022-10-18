@@ -37,6 +37,7 @@ Obtenebration 3
 Dominate 3
 Obfuscate 3
 Levinbolt 3
+Technomancy 3
 
 ## Notes
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Requirements for Annabelle to Earn Embrace|Requirements for Annabelle to Earn Embrace]]
