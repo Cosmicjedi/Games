@@ -78,11 +78,12 @@ ___
 | --------- | -----------|- |  --- |
 | 9/9       | 12         | 2 |  6   |
 ___
-| Merits                                                                                                                          | Flaws                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-|  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit)                                                                          | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw)                           |
-|  [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)                                                                    |  |
-|  [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/blood kings favor|blood kings favor]] 2pt                                                                |                 |
+| Merits                                                | Flaws                                             |
+| ----------------------------------------------------- | ------------------------------------------------- |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw) |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)    |  fuck me I have a beast                                                  |
+| [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/blood kings favor|blood kings favor]] 2pt                             |                                                   |
+|                                                      |                                                   |
 ___
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
