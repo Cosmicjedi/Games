@@ -58,11 +58,11 @@ ___
 |     | **Advantages** |     | 
 | ---  |:--------------:| --- |
 ___
-|                                 |     | Spheres               |     |                       |     |
-| ------------------------------- | --- |--------------------- | --- | --------------------- | --- |
-| Correspondence (No foci needed) - Tutting, Tarot | 3   | Life   -   Blood, Athame            | 3   | Prime                 |     |
-| Entropy (No foci needed) Spell work, ash        | 3   | Matter                |     | Spirit                |     |
-| Forces -  Unbroken Circles,  Gem                     | 3   | Mind (No foci needed) - Language, Mediation| 4   | Time (No foci needed) - Unique foci pocket watch| 3   |
+|  Sphere        |   instruments                    |  lvl   | Spheres | instruments             |  lvl   | Sphere| instruments                      | lvl    |
+| ---------------|---------------- | --- |--------------------- | --- | ---|-------------|----- | --- |
+| Correspondence |(No foci needed) - Tutting, Tarot | 3   | Life|   -   Blood, Athame            | 3   | Prime|                 |     |
+| Entropy |(No foci needed) Spell work, ash        | 3   | Matter|                |     | Spirit|                |     |
+| Forces |  Unbroken Circles,  Gem                     | 3   | Mind| (No foci needed) - Language, Mediation| 4   | Time| (No foci needed) - Unique foci pocket watch| 3   |
 ___
 | Backgrounds            |              |
 | ---------------------- | ------------ |
