@@ -7,7 +7,7 @@ Tags:: #Keith/KVTM2022/Character/PC
 Dates:: 2022-08-09
 Clan:: Lasombra
 Player:: Joshua
-Type:: Vampire
+Type:: Mage
 # Damien MacLeod
 ## Birth Death Details
 Birth Name:: Tormod son of Leod
@@ -22,6 +22,7 @@ Skin color:: Sun Bronzed from a life of outside work.
 Ethnicity:: Norse-Scottish mix.
 Tormod is a male of Norse-Scottish ethnicity large man standing 6'7" (200.66cm) tall. he is lean muscle and built for speed and stamina. Read Hair Green Eyes.
 ## Character Sheet
+
 ___
 |            |              |           |           |             |           |
 | ---------- | ------------ | --------- | --------- | ----------- | --------- |
@@ -50,18 +51,18 @@ ___
 | Empathy:      |                | 🔵🔵     | Firearms:          |             |            | Law:           |                                                         |              |
 | Expression:   |                |          | Larceny:           |             |            | Medicine:      |                                                         |              |
 | Intimidation: | Veiled Threats | 🔵🔵🔵🔵 | Melee:             |             | 🔵🔵🔵     | Occult:        | Necromancy, Obtenebration, Abyss Mysticism, Blood Magic | 🔵🔵🔵🔵🔵🔵 |
-| Leadership:   |                | 🔵🔵🔵🔵 | Performance:       | Painting    | 🔵🔵🔵     | Politics:      |                                                         |              |
+| Leadership:   |                | 🔵🔵🔵🔵 | Performance:       | Painting    | 🔵🔵🔵🔵     | Politics:      |                                                         |              |
 | Streetwise:   |                |          | Stealth:           |             | 🔵🔵🔵🔵   | Science:       |                                                         | 🔵🔵         |
 | Subterfuge:   |                | 🔵🔵🔵🔵 | Survival:          |             | 🔵🔵🔵🔵   | Technology:    |                                                         | 🔵🔵         |
-| Meditation    |                | 🔵       | Artistic Expression |             |🔵            | Thanatology    |                                                         | 🔵🔵🔵       |
+| Meditation    |                | 🔵       |  |             |            | Thanatology    |                                                         | 🔵🔵🔵       |
 ___
 |     | **Advantages** |     | 
 | ---  |:--------------:| --- |
 ___
 |  Sphere        |   instruments                    |  lvl   | Spheres | instruments             |  lvl   | Sphere| instruments                      | lvl    |
 | ---------------|---------------- | --- |--------------------- | --- | ---|-------------|----- | --- |
-| Correspondence |(No foci needed) - Tutting, Tarot | 3   | Life|   -   Blood, Athame            | 3   | Prime|                 |     |
-| Entropy |(No foci needed) Spell work, ash        | 3   | Matter|                |     | Spirit|                |     |
+| Correspondence |(No foci needed) - Tutting, Tarot | 3   | Life| Blood, Athame            | 3   | Prime|                 |  1   |
+| Entropy |(No foci needed) Spell work, ash        | 3   | Matter|                | 1    | Spirit|                |     |
 | Forces |  Unbroken Circles,  Gem                     | 3   | Mind| (No foci needed) - Language, Mediation| 4   | Time| (No foci needed) - Unique foci pocket watch| 3   |
 ___
 | Backgrounds            |              |
@@ -72,7 +73,8 @@ ___
 | Retainers              | 🔵🔵🔵       |
 | Library  - Blood Magic | 🔵🔵🔵🔵🔵🔵 |
 | Resources              | 🔵🔵🔵🔵     |
-| Alternate ID                       | 🔵             |
+| Alternate ID - Jakob Bell          | 🔵           |
+| Fount                  | 🔵            |
 ___
 | Willpower | Quintessence| per turn |  Arete    |
 | --------- | -----------|- |  --- |
@@ -81,9 +83,10 @@ ___
 | Merits                                                | Flaws                                             |
 | ----------------------------------------------------- | ------------------------------------------------- |
 | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Early Riser#Early Riser\|Early Riser]] (1pt. Merit) | [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Tic-Twitch#Tic Twitch\|Tic-Twitch]] (1pt. Flaw) |
-| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)    |  fuck me I have a beast                                                  |
+| [[Spaces/Gaming/Source Material/Areas/CWoD/Genre/Vampire/V20/Merits and Flaws/Unbondable#unbondable\|Unbondable]] (5pt. Merit)    | fuck me I have a beast                            |
 | [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/blood kings favor|blood kings favor]] 2pt                             |                                                   |
-|                                                      |                                                   |
+| Light Sleeper (1pt. Merit)                            |                                                   |
+| Trump Artistry                                                      |                                                   |
 ___
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Dice Pools|Dice Pools]]
 ## Languages
@@ -205,10 +208,10 @@ Sovereign
 
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Notes/Damiens Goals|Damiens Goals]]
 
-## old info
+## Old info
 [[Spaces/Gaming/Keith Grace Games/VTM 2022/Areas/Characters/Old Vampire stuff|Old Vampire stuff]]
 
 
 ## Items
-Gem that doesn't exist on earth super heavily compressed purple diamond thumbnail size
+Gem that doesn't exist on earth super heavily compressed purple diamond thumbnail size.
 Ruby from hades plain small pea.
