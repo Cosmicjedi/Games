@@ -7,4 +7,4 @@ Dates:: 2022-08-19
 
 # Gaming Atlas
 - [[Spaces/Gaming/Source Material/Areas/CWoD/• MOCs/CWoD Atlas|CWoD Atlas]]
-- [[Spaces/Gaming/Keith Grace Games/z - Retired Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
+- [[Spaces/Gaming/Keith Grace Games/VTM 2022/• MOCs/KVTM2022 Character List - MOC|KVTM2022 Character List - MOC]]
